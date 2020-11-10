@@ -67,7 +67,7 @@
 		f.parentNode.insertBefore(s, f);
 	</script>
 	<!-- New design styles -->
-	
+
 </head>
 
 <body>
@@ -123,7 +123,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">

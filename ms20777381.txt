@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "knitsol.com",
+  "Id": "94231889-5ad8-4708-abf9-62c598878182"
+}
