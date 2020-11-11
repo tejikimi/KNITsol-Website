@@ -19,12 +19,11 @@
 						<ul class="navbar-nav ml-auto">
 							<li class="nav-item">
 								<a href="index.php" class="nav-link">
-									<i class="fa fa-fw fa-home"></i>
 									Home
 								</a>
 							</li>
 							<li class="nav-item">
-								<a href="about.php" class="nav-link"><i class="fa fa-fw fa-search"></i>
+								<a href="about.php" class="nav-link">
 									About Us
 								</a>
 							</li>
@@ -44,7 +43,7 @@
 								</a>
 								<ul class="dropdown-menu dropdown-style">
 									<li class="nav-item">
-										<a href="pr-zohomh.php" class="nav-link"> <i class="fa fa-fw fa-trophy"> </i>Zoho Marketing Hub </a>
+										<a href="pr-zohomh.php" class="nav-link"> Zoho Marketing Hub </a>
 									</li>
 									<li class="nav-item">
 										<a href="sample.php" class="nav-link">Salesforce Marketing Cloud </a>
@@ -64,7 +63,7 @@
 										<a href="sol-crm.php" class="nav-link">Lead-To-Sale CRM </a>
 									</li>
 									<li class="nav-item">
-										<a href="#" class="nav-link"> StoneERP </a>
+										<a href="sol-erp.php" class="nav-link"> StoneERP </a>
 									</li>
 								</ul>
 							</li>
