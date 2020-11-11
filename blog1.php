@@ -102,356 +102,45 @@
     <div class="container pb-20 pt-20">
         <div class="row">
             <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
-                <!--<h1>Blog</h1>-->
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/marketingblog.jpg">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Why Marketing Automation ?</h3>
+                        <div style="text-align:justify;">It all starts with a lack of collaboration between sales & marketing. When both the teams are scrambling to track qualified leads and make funnel building, all while relying on ad-hoc data input and follow-up requests  it’s inevitable that collaboration attempts degrade. They key responsibility is with ...</div>
+                        <div class="blog-date"><em>Tuesday November 10, 2020, <br>by, Poornima</em></div>
+                        <div class="button"><a href="blogcontent.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
                 <div style="text-align:center;">
                     <img width="300" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
                 </div>
                 <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
                     <div class="pb-20 pt-20 pl-2 pr-2">
                         <h3>Removing Fields from CRM</h3>
                         <div style="text-align:justify;">Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
                         <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
                         <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
                     </div>
-                    <!-- </a> -->
                 </div>
-
             </div>
             <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
-                <!--<h1>Blog</h1>-->
                 <div style="text-align:center;">
                     <img width="300" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
                 </div>
                 <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
                     <div class="pb-20 pt-20 pl-2 pr-2">
                         <h3>Removing Fields from CRM</h3>
                         <div style="text-align:justify;">Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
                         <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
                         <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
                     </div>
-                    <!-- </a> -->
                 </div>
-
-            </div>
-            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
-                <!--<h1>Blog</h1>-->
-                <div style="text-align:center;">
-                    <img width="300" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-                </div>
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20 pl-2 pr-2">
-                        <h3>Removing Fields from CRM</h3>
-                        <div style="text-align:justify;">Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-
-            </div>
-
+            </div> -->
         </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-6">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date pb-1 pt-1"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-            <div class="col-6">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-12">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-12">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-7">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-            <div class="col-5">
-                <img width="640" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-            </div>
-        </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-7">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-            <div class="col-5">
-                <img width="640" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-            </div>
-        </div>
-    </div>
-
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-7">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-            <div class="col-5">
-                <img width="300" height="380" style="vertical-align: middle;" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-            </div>
-        </div>
-    </div>
-    <div class="container pb-20 pt-20">
-        <div class="row">
-            <div class="col-7">
-                <!--<h1>Blog</h1>-->
-                <div class="row related_page_links">
-                    <!-- <a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end"> -->
-                    <div class="pb-20 pt-20">
-                        <h3>Removing Fields from CRM</h3>
-                        <div>Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                    <!-- </a> -->
-                </div>
-            </div>
-            <div class="col-5">
-                <img width="300" height="380" style="vertical-align: middle;"
-src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-            </div>
-        </div>
-    </div>
-
-    <div class="container" style="width:540px">
-        <div class="row pt-20 pb-20">
-            <article>
-                <header class="entry-header">
-                    <h2 class="entry-title">
-                        <a href="https://www.consultingsuccess.com/triple-your-consulting-sales">
-                            Triple Your Consulting Sales With These 2 Strategies </a>
-                    </h2>
-                    <div class="entry-meta">
-                        <div class="meta"><strong>BY</strong> <span class="author vcard" itemprop="author">Michael Zipursky</span> - <time class="entry-date published" datetime="2020-11-04T04:30:30-08:00" title="2020-11-04T04:30:30-08:00">November 4, 2020</time></div>
-                    </div>
-                </header>
-
-                <div class="entry-content">
-                    <div class="featured-image">
-                        <img width="640" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg" class="attachment- size- wp-post-image" alt="" loading="lazy" srcset="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg 640w, https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales-300x178.jpg 300w" sizes="(max-width: 640px) 100vw, 640px"> </div>
-
-                    <p>Do you ever feel like you’re fighting an uphill battle in your consulting sales, trying to prove your value to potential consulting clients? Wouldn’t it be so much easier if you didn’t have to jump through hoops just to show that you can help them? The more value your prospective clients associate with you, the …</p>
-
-                    <a href="https://www.consultingsuccess.com/triple-your-consulting-sales" class="read-more" data-wpel-link="internal">Read More</a>
-                </div>
-            </article>
-        </div>
-    </div>
-    <div class="container" style="width:540px">
-        <div class="row pt-20 pb-20">
-            <article>
-                <header class="entry-header">
-                    <h2 class="entry-title">
-                        <a href="https://www.consultingsuccess.com/triple-your-consulting-sales">
-                            Triple Your Consulting Sales With These 2 Strategies </a>
-                    </h2>
-                    <div class="entry-meta">
-                        <div class="meta"><strong>BY</strong> <span class="author vcard" itemprop="author">Michael Zipursky</span> - <time class="entry-date published" datetime="2020-11-04T04:30:30-08:00" title="2020-11-04T04:30:30-08:00">November 4, 2020</time></div>
-                    </div>
-                </header>
-
-                <div class="entry-content">
-                    <div class="featured-image">
-                        <img width="640" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg" class="attachment- size- wp-post-image" alt="" loading="lazy" srcset="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg 640w, https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales-300x178.jpg 300w" sizes="(max-width: 640px) 100vw, 640px"> </div>
-
-                    <p>Do you ever feel like you’re fighting an uphill battle in your consulting sales, trying to prove your value to potential consulting clients? Wouldn’t it be so much easier if you didn’t have to jump through hoops just to show that you can help them? The more value your prospective clients associate with you, the …</p>
-
-                    <a href="https://www.consultingsuccess.com/triple-your-consulting-sales" class="read-more" data-wpel-link="internal">Read More</a>
-                </div>
-            </article>
-        </div>
-    </div>
-
-
-    <div class="column">
-        <div class="container">
-            <div class="paragraph paragraph--type--widget paragraph--view-mode--default">
-                <div>
-                    <div class="views-element-container">
-                        <!-- <div class="js-view-dom-id-6cb0541d26b7dc60b6316e6351195cb86f5c82d1816a568386a84510d7782784"> -->
-                        <div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">
-                            <div class="views-row">
-                                <article class="card card__has-border card__color-bar card__color-bar--blue card__align--left card__align-text--left profile__blog">
-                                    <div class="card__inner">
-                                        <figure class="card__image card__image--type card__image--rectangle">
-                                            <!-- <a href="https://www.wordstream.com/blog/ws/2020/11/09/crm-for-small-business"> -->
-                                            <div>
-                                                <article>
-                                                    <div> <img alt="customer relationship management CRM for small business" src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/customer%20relationship%20management%20CRM%20for%20small%20business_0.png?5vGkpwMWWI1kzsS21SdK4HVyui10w2Nv" width="800" height="351" typeof="foaf:Image">
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            </a>
-                                        </figure>
-                                        <div class="card__inner">
-                                            <div class="card__date">
-                                                <div>November 9th, 2020</div>
-                                            </div>
-                                            <h3 class="card__headline">
-                                                <div> <a href="/blog/ws/2020/11/09/crm-for-small-business" hreflang="en">CRM: What Your Small Business Needs to Know About Customer Relationship Management</a>
-                                                </div>
-                                            </h3>
-                                            <div class="card__text">
-                                                <div>
-                                                    <p>You’ve probably heard of CRM software—used it in the past, gotten sales calls about adopting one, wistfully wished your customer data was nicely organized inside one. But if you haven't, don't worry. I myself was once a wet-behind-the-ears college intern throwing acronyms around like candy without any clear idea what the letters stood for.</p>
-                                                    <p>CRM stands for customer relationship management...</p>
-                                                </div>
-                                            </div>
-                                            <div class="card__link">
-                                                <a href="https://www.wordstream.com/blog/ws/2020/11/09/crm-for-small-business">
-                                                    Read More &gt;
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-
-    <div class="column">
-        <div class="container">
-            <div class="paragraph paragraph--type--widget paragraph--view-mode--default">
-                <div>
-                    <div class="views-element-container">
-                        <!-- <div class="js-view-dom-id-6cb0541d26b7dc60b6316e6351195cb86f5c82d1816a568386a84510d7782784"> -->
-                        <div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">
-                            <div class="views-row">
-                                <article class="card card__has-border card__color-bar card__color-bar--blue card__align--left card__align-text--left profile__blog">
-                                    <div class="card__inner">
-                                        <figure class="card__image card__image--type card__image--rectangle">
-                                            <!-- <a href="https://www.wordstream.com/blog/ws/2020/11/09/crm-for-small-business"> -->
-                                            <div>
-                                                <article>
-                                                    <div> <img alt="customer relationship management CRM for small business" src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/images/media/images/customer%20relationship%20management%20CRM%20for%20small%20business_0.png?5vGkpwMWWI1kzsS21SdK4HVyui10w2Nv" width="800" height="351" typeof="foaf:Image">
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            </a>
-                                        </figure>
-                                        <div class="card__inner">
-                                            <div class="card__date">
-                                                <div>November 9th, 2020</div>
-                                            </div>
-                                            <h3 class="card__headline">
-                                                <div> <a href="/blog/ws/2020/11/09/crm-for-small-business" hreflang="en">CRM: What Your Small Business Needs to Know About Customer Relationship Management</a>
-                                                </div>
-                                            </h3>
-                                            <div class="card__text">
-                                                <div>
-                                                    <p>You’ve probably heard of CRM software—used it in the past, gotten sales calls about adopting one, wistfully wished your customer data was nicely organized inside one. But if you haven't, don't worry. I myself was once a wet-behind-the-ears college intern throwing acronyms around like candy without any clear idea what the letters stood for.</p>
-                                                    <p>CRM stands for customer relationship management...</p>
-                                                </div>
-                                            </div>
-                                            <div class="card__link">
-                                                <a href="https://www.wordstream.com/blog/ws/2020/11/09/crm-for-small-business">
-                                                    Read More &gt;
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     </div>
 
     <?php include("includes/footer.php"); ?>
