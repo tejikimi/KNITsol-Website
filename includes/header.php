@@ -28,12 +28,23 @@
 								</a>
 							</li>
 							<li class="nav-item">
-								<a href="" class="nav-link">
+                                <a href="#" class="nav-link dropdown-toggle">
 									Services
 								</a>
+								<ul class="dropdown-menu dropdown-style">
+									<li class="nav-item">
+										<a href="ser-dev.php" class="nav-link"> IT Development & Testing </a>
+									</li>
+									<li class="nav-item">
+										<a href="ser-tr.php" class="nav-link">Training & Skills </a>
+									</li>
+									<li class="nav-item">
+										<a href="ser-con.php" class="nav-link">Consultancy </a>
+									</li>
+								</ul>
 							</li>
 							<li class="nav-item">
-								<a href="" class="nav-link">
+								<a href="#" class="nav-link">
 									Industries
 								</a>
 							</li>
@@ -58,12 +69,11 @@
 									Solutions
 								</a>
 								<ul class="dropdown-menu dropdown-style">
-
 									<li class="nav-item">
-										<a href="sol-crm.php" class="nav-link">Lead-To-Sale CRM </a>
+										<a href="sol-crm.php" class="nav-link">CRM </a>
 									</li>
 									<li class="nav-item">
-										<a href="sol-erp.php" class="nav-link"> StoneERP </a>
+										<a href="sol-erp.php" class="nav-link"> StoneworkERP </a>
 									</li>
 								</ul>
 							</li>

@@ -72,13 +72,41 @@
 		f.parentNode.insertBefore(s, f);
 	</script>
 	<style>
-		.pb-20{
+		.pb-20 {
 			height: 450px;
 		}
-		.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
-          color: #1089d4;
+
+		.h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
 		}
-		</style>
+
+		.heading-h2 {
+			font-weight: 700;
+			font-family: "Poppins", sans-serif;
+			font-size: 2rem;
+		}
+
+		.heading-sec {
+			height: 100px;
+			line-height: 100px;
+		}
+
+		.blog-img {
+			width:300px;
+			height:200px;
+		}
+	</style>
 </head>
 
 <body>
@@ -136,7 +164,7 @@
 										<div class="row">
 											<div class="col-lg-6">
 												<div class="header-txt">
-													<h1 class="animated fadeInRight" data-animate="fadeInRight" data-delay=".80" style="visibility: visible; animation-delay: .80s;">Lead-To-Cash CRM</h1>
+													<h1 class="animated fadeInRight" data-animate="fadeInRight" data-delay=".80" style="visibility: visible; animation-delay: .80s;">CRM</h1>
 													<p class="lead animated fadeInRight" data-animate="fadeInRight" data-delay="1" style="visibility: visible; animation-delay: 1s;text-align:justify"> Lead-to-Cash - A CRM Solution which helps in increasing the productivity, streamlining the sales process and enhance the visibility for sales team within the organization. It gives a bird eye view which enhances the understanding of the lead. This approach helps in converting the lead to business and hence the name Lead-to-Cash. An improved engagement with the customer gives an opportunity to know your lead well and enhances the relationship.
 													</p>
 													<ul class="btns animated fadeInRight" data-animate="fadeInRight" data-delay="1.20" style="visibility: visible; animation-delay: 1.20s;">
@@ -149,7 +177,7 @@
 												</div>
 											</div>
 											<div class="col-lg-6">
-												<img src="home91.png" class="d-block w-100" alt="image">
+												<img src="home19.png" class="d-block w-100" alt="image">
 											</div>
 										</div>
 									</div>
@@ -158,7 +186,7 @@
 										<div class="row">
 											<div class="col-lg-6">
 												<div class="header-txt">
-													<h1 class="animated fadeInRight" data-animate="fadeInRight" data-delay=".80" style="visibility: visible; animation-delay: .80s;">Stone ERP</h1>
+													<h1 class="animated fadeInRight" data-animate="fadeInRight" data-delay=".80" style="visibility: visible; animation-delay: .80s;">Stone work ERP</h1>
 													<p class="lead animated fadeInRight" data-animate="fadeInRight" data-delay="1" style="visibility: visible; animation-delay: 1s;text-align:justify"> Stonework ERP is built to address all the unique challenges of the Granite Industry and its business processes. It helps in improving overall productivity by reducing the risk-taking factors within the company. Stonework ERP is designed and developed on Salesforce Platform which is niche and one of the Industry best players in customer relationship management. KNIT is proud to be the first company to provide the solution on Salesforce platform and serve the granite industry.This ERP solution is built to centralize business processes, improve productivity and thus reduce risk across the enterprise.
 													</p>
 													<ul class="btns animated fadeInRight" data-animate="fadeInRight" data-delay="1.20" style="visibility: visible; animation-delay: 1.20s;">
@@ -171,7 +199,7 @@
 												</div>
 											</div>
 											<div class="col-lg-6">
-												<img src="home13.png" class="d-block w-100" alt="image">
+												<img src="home23.png" class="d-block w-100" alt="image">
 											</div>
 										</div>
 									</div>
@@ -234,7 +262,7 @@
 		</div>
 	</section>
 
-	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color:white;">
+	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color: #add8e685;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Why Krishnaag IT Solutions</h2>
@@ -243,19 +271,19 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="title">
-						<h2>Our Approach</h2>
+						<h4>Our Approach</h4>
 					</div>
 					<p style="text-align: justify;">With par excellence our consultants competence in Mulesoft,Salesforce & Bigdata centres are pivotal in every success we achieve through our valued customers.</p>
 				</div>
 				<div class="col-md-4">
 					<div class="title">
-						<h2>Our People</h2>
+						<h4>Our People</h4>
 					</div>
 					<p style="text-align: justify;">Commitment is the synonym when it comes to our people.Our Team is eminent in delivering high standards to our customers.They are the ones who are with us at our every stepping stone towards success. By each day and our squad is growing strong.</p>
 				</div>
 				<div class="col-md-4">
 					<div class="title">
-						<h2>Our Clients </h2>
+						<h4>Our Clients </h4>
 					</div>
 					<p style="text-align: justify;">Our Clients success defines us and make what we are today.Our biggest achievement is the trust we gained by all big & small brands across wide range of industries. They count on us and we deliver their dreams. We are proud to share our successful journey with them </p>
 				</div>
@@ -270,31 +298,34 @@
 				<p> Since our foundation in 1999, we have been dedicated to mastering our craft, staying at the cutting edge of system's integration technology and serving our customers with transparency and insight.</p>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
-					<h2 style="color: black;">Etiam posuere augue</h2>
-					<div class="box">
-						<a href="#" class="image image-full"><img src="assets/img/bg.jpg" alt="image"></a>
-						<span>Maecenas luctus lectus</span>
+				<div class="col-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2" style="color: black;">IT Development & Testing</h2>
+						</div>
+						<img class="blog-img" src="assets/img/development.jpg" alt="image">
 					</div>
-					<p>Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</p>
+					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
 					<a href="#" class="button">Etiam posuere</a>
 				</div>
-				<div class="col-md-4">
-					<h2 style="color: black;">Donec dictum metus</h2>
-					<div class="box">
-						<a href="#" class="image image-full"><img src="assets/img/bg.jpg" alt="image"></a>
-						<span>Lorem ipsum dolor sit amet</span>
+				<div class="col-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2" style="color: black;">Training & Skills</h2>
+						</div>
+						<img class="blog-img" src="assets/img/training.jpg" alt="image">
 					</div>
-					<p>Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</p>
+					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
 					<a href="#" class="button">Etiam posuere</a>
 				</div>
-				<div class="col-md-4">
-					<h2 style="color: black;">Fusce ultrices</h2>
-					<div class="box">
-						<a href="#" class="image image-full"><img src="assets/img/bg.jpg" alt="image"></a>
-						<span>Pellentesque quis lectus</span>
+				<div class="col-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2" style="color: black;">Consultancy</h2>
+						</div>
+						<img class="blog-img" src="assets/img/consultancy.jpg" alt="image">
 					</div>
-					<p>Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</p>
+					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
 					<a href="#" class="button">Etiam posuere</a>
 				</div>
 			</div>

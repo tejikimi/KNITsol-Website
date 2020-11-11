@@ -86,7 +86,7 @@
     <div class="page-title-area item-bg-1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Solutions</h2>
+                <h2>Services</h2>
                 <ul>
                     <li>
                         <a href="index.php">
@@ -94,10 +94,10 @@
                             <i class='bx bx-chevrons-right bx-fade-right'></i>
                         </a>
                     </li>
-                    <li>Solutions
+                    <li>Services
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> Stonework ERP
+                    <li> Training & Skills
                     </li>
 
                 </ul>
@@ -108,7 +108,7 @@
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title">
-                <h2>Stonework ERP</h2>
+                <h2>Training & Skills</h2>
             </div>
         </div>
         </div>
