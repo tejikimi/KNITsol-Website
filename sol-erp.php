@@ -270,7 +270,6 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <h2> INDIA </h2>
                         <ul>
                             <li> <i class='bx bx-check-square'></i>Email ID: info@knitsol.com </li>
                             <li> <i class='bx bx-check-square'></i>Website: www.knitsol.com</li>
