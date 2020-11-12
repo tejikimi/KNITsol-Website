@@ -103,9 +103,10 @@
 		}
 
 		.blog-img {
-			width:300px;
-			height:200px;
+			width: 300px;
+			height: 200px;
 		}
+	    
 	</style>
 </head>
 
@@ -129,7 +130,7 @@
 			<div class="d-table-cell">
 				<div class="container">
 					<div class="banner-text">
-						<div class="col-lg-12 col-md-12 order-lg-first">
+						<div class=" col-lg-12 col-md-12 ">
 							<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 								<ol class="carousel-indicators">
 									<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -154,8 +155,10 @@
 													</ul>
 												</div>
 											</div>
-											<div class="col-lg-6">
+											<div class="col-lg-6 col-sm-12">
+												<div class="d-none d-lg-block">
 												<img src="home8.png" class="d-block w-100" alt="image">
+												</div>
 											</div>
 										</div>
 									</div>
@@ -176,8 +179,10 @@
 													</ul>
 												</div>
 											</div>
-											<div class="col-lg-6">
+											<div class="col-lg-6 col-sm-12">
+											<div class="d-none d-lg-block">
 												<img src="home19.png" class="d-block w-100" alt="image">
+											</div>
 											</div>
 										</div>
 									</div>
@@ -198,8 +203,10 @@
 													</ul>
 												</div>
 											</div>
-											<div class="col-lg-6">
+											<div class="col-lg-6 col-sm-12">
+											<div class="d-none d-lg-block">
 												<img src="home11.png" class="d-block w-100" alt="image">
+											</div>
 											</div>
 										</div>
 									</div>
@@ -220,8 +227,10 @@
 													</ul>
 												</div>
 											</div>
-											<div class="col-lg-6">
+											<div class="col-lg-6 col-sm-12">
+											<div class="d-none d-lg-block">
 												<img src="home4.png" class="d-block w-100" alt="image">
+											</div>
 											</div>
 										</div>
 									</div>
@@ -298,7 +307,7 @@
 				<p> Since our foundation in 1999, we have been dedicated to mastering our craft, staying at the cutting edge of system's integration technology and serving our customers with transparency and insight.</p>
 			</div>
 			<div class="row">
-				<div class="col-4">
+				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
 							<h2 class="heading-h2" style="color: black;">IT Development & Testing</h2>
@@ -308,7 +317,7 @@
 					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
 					<a href="#" class="button">Etiam posuere</a>
 				</div>
-				<div class="col-4">
+				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
 							<h2 class="heading-h2" style="color: black;">Training & Skills</h2>
@@ -318,7 +327,7 @@
 					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
 					<a href="#" class="button">Etiam posuere</a>
 				</div>
-				<div class="col-4">
+				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
 							<h2 class="heading-h2" style="color: black;">Consultancy</h2>
