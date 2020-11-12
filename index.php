@@ -199,7 +199,7 @@
 												</div>
 											</div>
 											<div class="col-lg-6">
-												<img src="home23.png" class="d-block w-100" alt="image">
+												<img src="home11.png" class="d-block w-100" alt="image">
 											</div>
 										</div>
 									</div>
