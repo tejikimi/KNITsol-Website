@@ -57,7 +57,7 @@
 										<a href="pr-zohomh.php" class="nav-link"> Zoho Marketing Hub </a>
 									</li>
 									<li class="nav-item">
-										<a href="sample.php" class="nav-link">Salesforce Marketing Cloud </a>
+										<a href="#" class="nav-link">Salesforce Marketing Cloud </a>
 									</li>
 									<li class="nav-item">
 										<a href="#" class="nav-link">Salesforce Pardot </a>

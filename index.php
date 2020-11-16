@@ -304,7 +304,7 @@
 		<div class="container">
 			<div class="section-title">
 				<h2>Featured Services</h2>
-				<p> Since our foundation in 1999, we have been dedicated to mastering our craft, staying at the cutting edge of system's integration technology and serving our customers with transparency and insight.</p>
+				<p>  Since our Inception KNIT is known for its profound approach towards its services. Our team with best in industry exposure deliver and meet challenges to make our client relationship successful. </p>
 			</div>
 			<div class="row">
 				<div class="col-md-4">
@@ -314,8 +314,8 @@
 						</div>
 						<img class="blog-img" src="assets/img/development.jpg" alt="image">
 					</div>
-					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
-					<a href="#" class="button">Etiam posuere</a>
+					<div style="text-align: justify;"> We embark complete journey of our client's software development and testing service to ensure top notch performance and user experience. KNIT has aimed to be the best service provider to deal with end-to-end process which operates seamless support with consistent results.</div>
+					<a href="ser-dev.php" class="button">Find Out More</a>
 				</div>
 				<div class="col-md-4">
 					<div style="text-align:center;">
@@ -324,8 +324,8 @@
 						</div>
 						<img class="blog-img" src="assets/img/training.jpg" alt="image">
 					</div>
-					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
-					<a href="#" class="button">Etiam posuere</a>
+					<div style="text-align: justify;"> KNIT's Training Program enables business employee development and train individuals with required technical business skills which plays a key role in business success.  </div>
+					<a href="ser-tr.php" class="button">Find Out More</a>
 				</div>
 				<div class="col-md-4">
 					<div style="text-align:center;">
@@ -334,8 +334,8 @@
 						</div>
 						<img class="blog-img" src="assets/img/consultancy.jpg" alt="image">
 					</div>
-					<div style="text-align: justify;">Vivamus fermentum augue. Praesent lacus urna rutrum. Nulla enim eros varius. Duis enim nulla luctus eu, dapibus lacinia.</div>
-					<a href="#" class="button">Etiam posuere</a>
+					<div style="text-align: justify;">KNIT is one of the leading globally-recognized consulting partner, with years of experience in delivering services to wide range of industries, we know how to increase the efficiency of product sales and services.</div>
+					<a href="ser-con.php" class="button">Find Out More</a>
 				</div>
 			</div>
 		</div>
