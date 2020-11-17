@@ -97,9 +97,11 @@
                     <li>Services
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> Consultancy
+                    <li> IT Development & Testing 
+                        <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-
+                    <li>Testing
+                    </li>
                 </ul>
             </div>
         </div>
@@ -108,23 +110,21 @@
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title">
-                <h2>Consultancy</h2>
+                <h2>Testing</h2>
             </div>
         </div>
         </div>
     </section>
 
-    <!-- Overview -->
-   
     <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>No matter what your plans are, we have the right team, at the right moment for you. We can support you with top-notch talents, be it staff augmentation, team leasing or permanent employment contract requirements.</li>
-                            <li> <i class='bx bx-check-square'></i>Scale your IT personnel in the wink of the eye with KNIT's  staffing as a service offering. We offer three staffing options </li>
-                        </ul>
+                        <p class="text-justify">KNIT's Testing team has a combination of highly skilled software engineers with proven expertise in testing tools and implementing methodologies for a wide range of solutions. Be it new application, product testing, support or integration, we have the knowledge and expertise to excel in any scenario.</p>
+                        <p class="text-justify">Our expertise covers test-case development, test-plan development, regression testing, debug management, load testing, bug maintenance and certification. We develop automated test scripts are where ever appropriate. We also handle Manual Testing and Automated Testing Tasks with similar expertise.</p>
+                        <p class="text-justify">Our Automation Testing Team is capable of handling special customer requirements using Quick Test Pro (QTP), Selenium Testing and testing apps on iOS and Android using tools like Appium and Robotium.</p>
+                        <p class="text-justify">Watzmann also provides specialized testing services for various verticals e.g. Manufacturing, Healthcare, CRM etc.</p>
                     </div>
                 </div>
             </div>
@@ -134,15 +134,14 @@
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left">
-                <h2>Staff augmentation</h2>
+                <h2>Testing Methodologies</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">Extend your internal team with one or several skilled tech-professionals with KNIT's  IT Professionals. Our experienced employees are quick to understand and add extra value to your company on a per-project basis.</p>
-                        <p class="text-justify">KNIT  can offer you a diverse IT competency skill set for a predetermined amount of time, which is needed to carry out your project. With KNIT’s staff augmentation services, you can easily increase your workforce as per your needs and fulfill your out-of-house needs and requirements.</p>
-                        <p class="text-justify">Team leasing services, from KNIT, allow you to reduce costs on recruiting and infrastructure while gaining access to a wide pool of talented technology teams. Enlarge your in-house IT team and hire the best tech talent professionals.</p>
-                        <p class="text-justify">Cut or extend your amplified team whenever you want. Fill in your technological and expertise gaps. Build a dedicated software development team tailored to meet your needs. Benefit from the highest levels of productivity and focus, all with KNIT IT Professionals.</p>
+                        <ul>
+                            <li> <i class='bx bx-check-square'></i>Being in business has enabled us to show our prowess in Agile Methodology. We provide various types of testing services to our esteemed clients as below mentioned.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -152,13 +151,18 @@
     <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
             <div class="section-title-text-left">
-                <h2>Permanent employment</h2>
+                <h2>SOFTWARE APPLICATION TESTING SERVICES</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">With the permanent employment of KNIT IT Professionals, you can accomplish three primary goals: decrease the cost of labor delivery, receive the guaranteed quality of new hires and mitigate the risks of recruiting new personnel.</p>
-                        <p class="text-justify">We use a consultative approach in order to gain a complete understanding of your specific requirements, so we can create a direct and targeted recruiting plan with an emphasis on finding professionals with the proper skills and talents. Candidates are screened using a competency-based interview and the referencing process is focused on evaluating and validating previous performance. Regular follow-up calls ensure that all sides of the process are satisfied.</p>
+                        <p class="text-justify">The Software Testing Team at KNIT provide the below mentioned Application Testing Services:</p>
+                        <ul>
+                            <li> <i class='bx bx-check-square'></i>Enterprise Application Testing - Enterprise applications are critical to many businesses across various industries. At KNIT Consulting we have a proficient QA team that can support infrastructure and processes to optimize testing of business applications.</li>
+                            <li> <i class='bx bx-check-square'></i>Web Application Testing - KNIT's dedicated team of testing engineers have good experience and knowledge in web application testing technologies. We are proficient in different technologies has generated in delivering multiple projects at different parts of the globe. </li>
+                            <li> <i class='bx bx-check-square'></i>Desktop Application Testing – We provide a wide range of testing services on desktop applications. With the support of our detailed desktop application testing expertise and QA testing experience we have gained substantial experience in this.</li>
+                        </ul>
+                        <p class="text-justify">Mobile App Testing - Our mobile app testing services team has knowledge of handling complex apps which are intended to function across multiple devices with varying screen sizes, internal hardware, resolutions that can operate under various operating systems.</p> 
                     </div>
                 </div>
             </div>

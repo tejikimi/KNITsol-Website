@@ -66,6 +66,12 @@
         s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
         f.parentNode.insertBefore(s, f);
     </script>
+    <style>
+        .blog-img {
+            width: 300px;
+            height: 200px;
+        }
+    </style>
 </head>
 
 <body>
@@ -117,13 +123,10 @@
     <!-- Overview -->
     <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
-                <h2>Overview – About Product </h2>
-            </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">Stonework ERP is built to address all the unique challenges of the Granite Industry and its business processes. It helps in improving overall productivity by reducing the risk-taking factors within the company. It has been designed and developed on Salesforce Platform which is niche and one of the Industry players in customer relationship management. </p>
+                        <p class="text-justify">Our Data and Analytics services enable clients to drive agility in their business operations, attain competitive advantages, and offer proactive response to emerging opportunities. We help you leverage enterprise and external data sources to drive better outcomes by implementing advanced analytics techniques and technologies. Our integrated approach to data management capabilities spanning Master Data Management to Data Quality and Data Governance helps us create an enterprise view of data for informed decision making.</p>
                     </div>
                 </div>
             </div>
@@ -133,19 +136,15 @@
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left">
-                <h2>Modules </h2>
+                <h2>Offerings</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">Stonework ERP covers below Modules</p>
                         <ul>
-                            <li> <i class='bx bx-check-square'></i>Procurement</li>
-                            <li> <i class='bx bx-check-square'></i>Inventory Management </li>
-                            <li> <i class='bx bx-check-square'></i> CRM </li>
-                            <li> <i class='bx bx-check-square'></i> Sales & Marketing </li>
-                            <li> <i class='bx bx-check-square'></i> Finance & Accounting </li>
-                            <li> <i class='bx bx-check-square'></i> Operations </li>
+                            <li> <i class='bx bx-check-square'></i>ERP</li>
+                            <li> <i class='bx bx-check-square'></i>CRM</li>
+                            <li> <i class='bx bx-check-square'></i> Testing</li>
                         </ul>
                     </div>
                 </div>
@@ -153,134 +152,42 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
-                <h2>Benefits</h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <p class="text-justify">This ERP solution is built to centralize business processes, improve productivity and thus reduce risk across the enterprise. Various business benefits that we achieve out of this solution are as below.</p>
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Centralized information and seamless access - Stonework ERP provides a seamless access and control over the information which can be located at a central location for easy visibility and data storage.</li>
-                            <li> <i class='bx bx-check-square'></i>Operational tracking and Reporting - Stonework ERP application tracks the transactional details of customers and records the entire data for easy accessibility and visibility to generate reports. </li>
-                            <li> <i class='bx bx-check-square'></i> Better Auditing and Compliance - Stonework ERP ensures to provide on the go statistical reports along with customised reports which can be generated on request. </li>
-                            <li> <i class='bx bx-check-square'></i> Reporting and Analytics - Stonework ERP application tracks the transactional details and reflects the real-time production and inventory data to the management. </li>
-                            <li> <i class='bx bx-check-square'></i> Improved Customer Service - Stonework ERP has a seamless transactional operation which is service oriented and customer focussed with timely delivered information about the products and services. </li>
-                        </ul>
+            <div class="row">
+                <div class="col-md-4">
+                    <div style="text-align:center;">
+                        <div class="heading-sec">
+                            <h2 class="heading-h2" style="color: black;">ERP</h2>
+                        </div>
+                        <img class="blog-img" src="assets/img/dev-test/erp-dev.jpg" alt="image">
                     </div>
+                    <div style="text-align: justify;"> Stonework ERP is built to address all the unique challenges of the Granite Industry and its business processes. It helps in improving overall productivity by reducing the risk-taking factors within the company. It has been designed and developed on Salesforce Platform which is niche and one of the Industry players in customer relationship management.</div>
+                    <a href="sol-erp.php" class="button">Find Out More</a>
+                </div>
+                <div class="col-md-4">
+                    <div style="text-align:center;">
+                        <div class="heading-sec">
+                            <h2 class="heading-h2" style="color: black;">CRM</h2>
+                        </div>
+                        <img class="blog-img" src="assets/img/dev-test/crm-dev.jpg" alt="image">
+                    </div>
+                    <div style="text-align: justify;"> Our CRM consulting services will help you improve lead conversions, unify customer data, and boost sales rates.KNIT works with both B2B and B2C companies for over 10 years. Our sales intelligence pros help improve conversion and retention rate, which leads to substantial revenue increase.</div>
+                    <a href="sol-crm.php" class="button">Find Out More</a>
+                </div>
+                <div class="col-md-4">
+                    <div style="text-align:center;">
+                        <div class="heading-sec">
+                            <h2 class="heading-h2" style="color: black;">Testing</h2>
+                        </div>
+                        <img class="blog-img" src="assets/img/dev-test/testing-dev.png" alt="image">
+                    </div>
+                    <div style="text-align: justify;">KNIT's Testing team has a combination of highly skilled software engineers with proven expertise in testing tools and implementing methodologies for a wide range of solutions. Be it new application, product testing, support or integration, we have the knowledge and expertise to excel in any scenario.</div>
+                    <a href="ser-testing.php" class="button">Find Out More</a>
                 </div>
             </div>
         </div>
     </section>
-
-    <section class="corporate-why-choose-us-area ptb-50">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>24/7 Seamless Customer Support through </h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Email</li>
-                            <li> <i class='bx bx-check-square'></i>Customer Centric Application</li>
-                            <li> <i class='bx bx-check-square'></i> What's app </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>USP for Stonework ERP </h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <p class="text-justify">It is developed and designed on Salesforce Platform which is a top player, and we are the first company to achieve that privilege to serve granite industry.</p>
-                        <p> Provides the detailed filtered information of the stone quality like -</p>
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Variety of cut</li>
-                            <li> <i class='bx bx-check-square'></i>Thickness of the slab</li>
-                            <li> <i class='bx bx-check-square'></i>Infrastructure</li>
-                            <li> <i class='bx bx-check-square'></i>Under factories</li>
-                            <li> <i class='bx bx-check-square'></i>Under mines</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="corporate-why-choose-us-area ptb-50">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>Stonework ERP Features</h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Scalability: The application should be having options for scaling up by adding new features, support increasing user base.</li>
-                            <li> <i class='bx bx-check-square'></i>Recoverability: There should be appropriate backup and restore process defined to recover content in case there is data loss. There should be appropriate disaster recovery plan in place.</li>
-                            <li> <i class='bx bx-check-square'></i> Data Integrity: There should be verification functionality available to maintain data integrity.</li>
-                            <li> <i class='bx bx-check-square'></i> Performance: < Any specific performance expected like page should load within first 5 sec or search result should be available within 10 seconds of search entry>
-                            </li>
-                            <li> <i class='bx bx-check-square'></i> Security: There should be security mechanism in place to avoid unauthorized access to the application. The application should be enabled to support role-based scope only.</li>
-                            <li> <i class='bx bx-check-square'></i> Learnability: The end users should find it easy to learn about the application. There should training materials for application training be available.</li>
-                            <li> <i class='bx bx-check-square'></i> Integration: There should be enough provision to integrate the application with other applications including 3rd party software.</li>
-                            <li> <i class='bx bx-check-square'></i> Usability: The application should be available to use from standard desktop/laptop.</li>
-                            <li> <i class='bx bx-check-square'></i> Self-Descriptiveness: There should be user manuals, training materials for the end users to understand each feature and functionality in the application.</li>
-                            <li> <i class='bx bx-check-square'></i>Maintainability: Application should be easily maintained at the super user or end user admin level. For technical configurations/customizations, technical support process should be well documented.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>Engagement Model </h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>On Premise Model </li>
-                            <li> <i class='bx bx-check-square'></i>Cloud – Hosting Model</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="corporate-why-choose-us-area ptb-50">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>Contact US</h2>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <h2> INDIA </h2>
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Email ID: info@knitsol.com </li>
-                            <li> <i class='bx bx-check-square'></i>Website: www.knitsol.com</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
     <?php include("includes/footer.php"); ?>
 
