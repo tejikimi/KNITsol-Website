@@ -157,7 +157,7 @@
 											</div>
 											<div class="col-lg-6 col-sm-12">
 												<div class="d-none d-lg-block">
-												<img src="home8.png" class="d-block w-100" alt="image">
+												<img src="assets/img/home/home1.png" class="d-block w-100" alt="image">
 												</div>
 											</div>
 										</div>
@@ -181,7 +181,7 @@
 											</div>
 											<div class="col-lg-6 col-sm-12">
 											<div class="d-none d-lg-block">
-												<img src="home19.png" class="d-block w-100" alt="image">
+												<img src="assets/img/home/home2.png" class="d-block w-100" alt="image">
 											</div>
 											</div>
 										</div>
@@ -205,7 +205,7 @@
 											</div>
 											<div class="col-lg-6 col-sm-12">
 											<div class="d-none d-lg-block">
-												<img src="home11.png" class="d-block w-100" alt="image">
+												<img src="assets/img/home/home3.png" class="d-block w-100" alt="image">
 											</div>
 											</div>
 										</div>
@@ -229,7 +229,7 @@
 											</div>
 											<div class="col-lg-6 col-sm-12">
 											<div class="d-none d-lg-block">
-												<img src="home4.png" class="d-block w-100" alt="image">
+												<img src="assets/img/home/home4.png" class="d-block w-100" alt="image">
 											</div>
 											</div>
 										</div>

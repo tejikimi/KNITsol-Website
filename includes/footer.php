@@ -42,17 +42,28 @@
 							<i class='bx bx-chevron-right'></i>
 							<a href="about.php">About Us</a>
 						</li>
+		
+                        <li>
+							<i class='bx bx-chevron-right'></i>
+							<a data-toggle="collapse" href="#collapseProductMenu" role="button" aria-expanded="false" aria-controls="collapseProductMenu">Services</a>
+							<div class="collapse" id="collapseProductMenu">
+								<div>
+									<ul>
+										<a href="ser-dev.php">--IT Development & Testing </a>
+										<a href="ser-tr.php">--Training & Skills </a>								
+										<a href="ser-con.php">--Consultancy</a>
+									</ul>
+								</div>
+							</div>
+						</li>
+
 						<li>
 							<i class='bx bx-chevron-right'></i>
-							<a href="#">Services</a>
+							<a href="blog.php">Blogs</a>
 						</li>
 						<li>
 							<i class='bx bx-chevron-right'></i>
-							<a href="#">Blogs</a>
-						</li>
-						<li>
-							<i class='bx bx-chevron-right'></i>
-							<a href="#"> Contact us</a>
+							<a href="contact.php"> Contact us</a>
 						</li>
 					</ul>
 				</div>

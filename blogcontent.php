@@ -35,7 +35,7 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
-    <title>Krishnaag IT Solutions | About</title>
+    <title>Krishnaag IT Solutions | Blog content</title>
     <script>
         var w = window;
         var p = w.location.protocol;

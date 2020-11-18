@@ -84,7 +84,7 @@
 								<a href="#" class="nav-link">Resources</a>
 							</li>
 							<li class="nav-item">
-								<a href="blog1.php" class="nav-link">Blogs</a>
+								<a href="blog.php" class="nav-link">Blogs</a>
 							</li>
 							<li class="nav-item">
 								<a href="contact.php" class="nav-link">
