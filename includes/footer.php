@@ -1,10 +1,19 @@
-<section class="inner-footer-top-area pt-30 pb-30">
+<style>
+	.inner-footer-top-area .single-widget p{
+		color: black;
+	}
+	.inner-footer-top-area .single-widget ul li a{
+		color:black;
+	}
+	</style>
+
+<section class="inner-footer-top-area pt-30 pb-30" style="background-image: url(b5.jpg);">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 col-md-6">
 				<div class="single-widget">
 					<a href="index.php">
-						<img src="assets/img/knitsol-logo.png" alt="Image">
+						<img src="assets/img/knitsol-logo-new.png" alt="Image">
 					</a>
 					<p style="text-align: justify;">
 						Since our foundation in 1999, we have been dedicated to mastering our craft, staying at the cutting edge of system's integration technology and serving our customers with transparency and insight.

@@ -5753,16 +5753,16 @@ Blog Details Area Style
 .page-title-area {
   position: relative;
   z-index: 1;
-  padding-top: 145px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  background-image: url(../img/page-bg.jpg);
+  background-image: url(../../b5.jpg);
 }
 
-.page-title-area::before {
+/* .page-title-area::before {
   content: '';
   position: absolute;
   left: 0;
@@ -5772,7 +5772,7 @@ Blog Details Area Style
   z-index: -1;
   background-color: #1089d4;
   opacity: 0.9;
-}
+} */
 
 .page-title-area .page-title-content h2 {
   margin-bottom: 0;

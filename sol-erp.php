@@ -66,6 +66,22 @@
         s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
         f.parentNode.insertBefore(s, f);
     </script>
+    <style>
+         .h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
+		}
+    </style>
 </head>
 
 <body>
@@ -105,7 +121,7 @@
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area pt-50 pb-25">
         <div class="container">
             <div class="section-title">
                 <h2>Stonework ERP</h2>
@@ -115,7 +131,7 @@
     </section>
 
     <!-- Overview -->
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area pt-25 pb-50" >
         <div class="container">
             <div class="section-title-text-left">
                 <h2>Overview – About Product </h2>
@@ -130,9 +146,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>Modules </h2>
             </div>
             <div class="row align-items-center">
@@ -153,9 +169,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>Benefits</h2>
             </div>
             <div class="row align-items-center">
@@ -175,9 +191,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>24/7 Seamless Customer Support through </h2>
             </div>
             <div class="row align-items-center">
@@ -194,9 +210,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50" >
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>USP for Stonework ERP </h2>
             </div>
             <div class="row align-items-center">
@@ -217,9 +233,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>Stonework ERP Features</h2>
             </div>
             <div class="row align-items-center">
@@ -244,9 +260,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>Engagement Model </h2>
             </div>
             <div class="row align-items-center">
@@ -262,9 +278,9 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left">
+            <div class="section-title-text-left pb-30">
                 <h2>Contact US</h2>
             </div>
             <div class="row align-items-center">

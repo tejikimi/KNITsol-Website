@@ -66,6 +66,22 @@
         s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
         f.parentNode.insertBefore(s, f);
     </script>
+    <style>
+        .h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
+		}
+        </style>
 </head>
 
 <body>
@@ -105,18 +121,17 @@
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area pt-50 pb-25">
         <div class="container">
             <div class="section-title">
                 <h2>Consultancy</h2>
             </div>
         </div>
-        </div>
     </section>
 
     <!-- Overview -->
    
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area pt-25 pb-50" >
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -131,7 +146,7 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
             <div class="section-title-text-left">
                 <h2>Staff augmentation</h2>
@@ -149,7 +164,7 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left">
                 <h2>Permanent employment</h2>

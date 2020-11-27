@@ -66,6 +66,22 @@
         s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
         f.parentNode.insertBefore(s, f);
     </script>
+    <style>
+        .h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
+		}
+        </style>
 </head>
 
 <body>
@@ -104,7 +120,7 @@
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area pt-50 pb-25">
         <div class="container">
             <div class="section-title">
                 <h2>Training & Skills</h2>
@@ -114,7 +130,7 @@
     </section>
 
     <!-- Overview -->
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -127,15 +143,17 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area pt-50 pb-50" style="background-color: #add8e685;">
         <div class="container">
+            <div class="section-title-text-left pb-40">
+                <h2>Salesforce trainings we offer</h2>
+            </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
                         <ul>
-                            <li> <i class='bx bx-check-square'></i>Salesforce trainings we offer</li>
                             <li> <i class='bx bx-check-square'></i> Salesforce Admin </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Develeopment  </li>
+                            <li> <i class='bx bx-check-square'></i> Salesforce Develeopment </li>
                             <li> <i class='bx bx-check-square'></i> Aura component development </li>
                             <li> <i class='bx bx-check-square'></i> Lightning web component developent </li>
                             <li> <i class='bx bx-check-square'></i> Salesforce Marketing cloud </li>
@@ -143,18 +161,18 @@
                             <li> <i class='bx bx-check-square'></i> Python </li>
                             <li> <i class='bx bx-check-square'></i> BA</li>
                         </ul>
-                    <p> We also offer these trainings with mini project and live project support along with certifications.
-                    </p>
+                        <p style="font-style: italic;font-weight: bold;"> We also offer these trainings with mini project and live project support along with certifications.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50"style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50" >
         <div class="container">
-            <div class="section-title-text-left">
-                <h5>Digital Marketing Services</h5>
+            <div class="section-title-text-left pb-40">
+                <h2>Digital Marketing Services</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">

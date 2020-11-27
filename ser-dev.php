@@ -71,6 +71,20 @@
             width: 300px;
             height: 200px;
         }
+        .h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
+		}
     </style>
 </head>
 
@@ -111,7 +125,7 @@
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <section class="corporate-why-choose-us-area pt-50 pb-25">
         <div class="container">
             <div class="section-title">
                 <h2>IT Development & Testing</h2>
@@ -121,7 +135,7 @@
     </section>
 
     <!-- Overview -->
-    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -133,7 +147,7 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <!-- <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left">
                 <h2>Offerings</h2>
@@ -150,15 +164,18 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color: #add8e685;">
+    <section class="inner-it-what-we-do-area pt-50 pb-50" style="background-color: #add8e685;">
         <div class="container">
+            <div class="section-title-text-left pb-40">
+                <h2>Offerings</h2>
+            </div>
             <div class="row">
                 <div class="col-md-4">
                     <div style="text-align:center;">
                         <div class="heading-sec">
-                            <h2 class="heading-h2" style="color: black;">ERP</h2>
+                            <h2 class="heading-h2">ERP</h2>
                         </div>
                         <img class="blog-img" src="assets/img/dev-test/erp-dev.jpg" alt="image">
                     </div>
@@ -168,7 +185,7 @@
                 <div class="col-md-4">
                     <div style="text-align:center;">
                         <div class="heading-sec">
-                            <h2 class="heading-h2" style="color: black;">CRM</h2>
+                            <h2 class="heading-h2">CRM</h2>
                         </div>
                         <img class="blog-img" src="assets/img/dev-test/crm-dev.jpg" alt="image">
                     </div>
@@ -178,7 +195,7 @@
                 <div class="col-md-4">
                     <div style="text-align:center;">
                         <div class="heading-sec">
-                            <h2 class="heading-h2" style="color: black;">Testing</h2>
+                            <h2 class="heading-h2">Testing</h2>
                         </div>
                         <img class="blog-img" src="assets/img/dev-test/testing-dev.png" alt="image">
                     </div>

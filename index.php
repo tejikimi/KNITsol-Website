@@ -106,7 +106,10 @@
 			width: 300px;
 			height: 200px;
 		}
-	    
+        .part1{
+			background-image: url(b5.jpg);
+			padding-top: 40px;
+		}
 	</style>
 </head>
 
@@ -125,7 +128,7 @@
 	<!-- End Corporate Navbar Area -->
 
 	<!-- Start Corporate Banner Area -->
-	<section class="corporate-banner-area jarallax" data-jarallax='{"speed": 0.3}'>
+	<section class="part1">
 		<div class="d-table">
 			<div class="d-table-cell">
 				<div class="container">
@@ -157,7 +160,7 @@
 											</div>
 											<div class="col-lg-6 col-sm-12">
 												<div class="d-none d-lg-block">
-												<img src="assets/img/home/home1.png" class="d-block w-100" alt="image">
+													<img src="assets/img/home/home1.png" class="d-block w-100" alt="image">
 												</div>
 											</div>
 										</div>
@@ -180,9 +183,9 @@
 												</div>
 											</div>
 											<div class="col-lg-6 col-sm-12">
-											<div class="d-none d-lg-block">
-												<img src="assets/img/home/home2.png" class="d-block w-100" alt="image">
-											</div>
+												<div class="d-none d-lg-block">
+													<img src="assets/img/home/home2.png" class="d-block w-100" alt="image">
+												</div>
 											</div>
 										</div>
 									</div>
@@ -204,9 +207,9 @@
 												</div>
 											</div>
 											<div class="col-lg-6 col-sm-12">
-											<div class="d-none d-lg-block">
-												<img src="assets/img/home/home3.png" class="d-block w-100" alt="image">
-											</div>
+												<div class="d-none d-lg-block">
+													<img src="assets/img/home/home3.png" class="d-block w-100" alt="image">
+												</div>
 											</div>
 										</div>
 									</div>
@@ -228,9 +231,9 @@
 												</div>
 											</div>
 											<div class="col-lg-6 col-sm-12">
-											<div class="d-none d-lg-block">
-												<img src="assets/img/home/home4.png" class="d-block w-100" alt="image">
-											</div>
+												<div class="d-none d-lg-block">
+													<img src="assets/img/home/home4.png" class="d-block w-100" alt="image">
+												</div>
 											</div>
 										</div>
 									</div>
@@ -271,7 +274,7 @@
 		</div>
 	</section>
 
-	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color: #add8e685;">
+	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-image:url(b5.jpg)" ;>
 		<div class="container">
 			<div class="section-title">
 				<h2>Why Krishnaag IT Solutions</h2>
@@ -300,17 +303,17 @@
 		</div>
 	</section>
 
-	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-color:white">
+	<section class="inner-it-what-we-do-area pt-50 pb-70" style="">
 		<div class="container">
 			<div class="section-title">
 				<h2>Featured Services</h2>
-				<p>  Since our Inception KNIT is known for its profound approach towards its services. Our team with best in industry exposure deliver and meet challenges to make our client relationship successful. </p>
+				<p> Since our Inception KNIT is known for its profound approach towards its services. Our team with best in industry exposure deliver and meet challenges to make our client relationship successful. </p>
 			</div>
 			<div class="row">
 				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
-							<h2 class="heading-h2" style="color: black;">IT Development & Testing</h2>
+							<h2 class="heading-h2">IT Development & Testing</h2>
 						</div>
 						<img class="blog-img" src="assets/img/development.jpg" alt="image">
 					</div>
@@ -320,17 +323,17 @@
 				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
-							<h2 class="heading-h2" style="color: black;">Training & Skills</h2>
+							<h2 class="heading-h2">Training & Skills</h2>
 						</div>
 						<img class="blog-img" src="assets/img/training.jpg" alt="image">
 					</div>
-					<div style="text-align: justify;"> KNIT's Training Program enables business employee development and train individuals with required technical business skills which plays a key role in business success.  </div>
+					<div style="text-align: justify;"> KNIT's Training Program enables business employee development and train individuals with required technical business skills which plays a key role in business success. </div>
 					<a href="ser-tr.php" class="button">Find Out More</a>
 				</div>
 				<div class="col-md-4">
 					<div style="text-align:center;">
 						<div class="heading-sec">
-							<h2 class="heading-h2" style="color: black;">Consultancy</h2>
+							<h2 class="heading-h2">Consultancy</h2>
 						</div>
 						<img class="blog-img" src="assets/img/consultancy.jpg" alt="image">
 					</div>
