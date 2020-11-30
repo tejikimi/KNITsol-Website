@@ -65,7 +65,31 @@
 		};
 		s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
 		f.parentNode.insertBefore(s, f);
-	</script>
+    </script>
+    <style>
+        .heading-sec1 {
+			height: 130px;
+			line-height: 100px;
+		}
+        .blog-img {
+			width: 300px;
+			height: 200px;
+		}
+        .h1,
+		.h2,
+		.h3,
+		.h4,
+		.h5,
+		.h6,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #1089d4;
+		}
+        </style>
 	<!-- New design styles -->
 
 </head>
@@ -106,12 +130,12 @@
 			</div>
 		</div>
 	</div>
-	<section class="corporate-why-choose-us-area ptb-50">
+	<section class="corporate-why-choose-us-area pt-50 pb-25">
 		<div class="container">
 			<div class="section-title">
 				<h1>Zoho marketing Hub </h1>
 			</div>
-			<div class="section-title">
+			<div class="section-title ptb-10">
 				<h4>Features that bring marketing and sales closer: </h4>
 			</div>
 			<div class="row align-items-center">
@@ -124,7 +148,7 @@
 		</div>
 	</section>
 
-	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
+	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">
 				<h2 style="color: white;"> Lead management </h2>
@@ -172,7 +196,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> 
 
 	<section class="saas-features-area ptb-50" style="background-color: #add8e685;">
 		<div class="container">
@@ -190,10 +214,51 @@
 				</div>
 			</div>
 		</div>
+    </section>-->
+    
+    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+		<div class="container">
+			<div class="section-title">
+				<h2>Lead management</h2>
+				<p> From generating leads to understanding their online behavior and evaluating them for sales—manage your entire lead cycle.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Lead Generation</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec2a.png" alt="image">
+					</div>
+					<div style="text-align: justify;"> Get more leads by adding our signup forms and smart popups on your landing pages. You can also bring leads from GoToWebinar and Eventbrite, or sync your CRM leads.</div>
+					<!-- <a href="ser-dev.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Lead Nurturing</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec2b.png" alt="image">
+					</div>
+					<div style="text-align: justify;"> Develop a strong connection with your leads at every step by sending them relevant emails. Communicate with them on a regular basis to understand where they stand in your sales cycle. </div>
+					<!-- <a href="ser-tr.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Lead Qualification</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec2c.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Assign scores and tags to your leads based on their profile, behavior on your website, and interactions with your marketing programs. Trace the progress of your leads from step one and evaluate their sales-readiness.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+				</div>
+			</div>
+		</div>
 	</section>
 
 	<!-- Behavioral targeting  section-->
-	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
+	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">
 				<h2 style="color: white;">Behavioral targeting</h2>
@@ -241,10 +306,41 @@
 				</div>
 			</div>
 		</div>
+    </section> -->
+    
+    <section class="inner-it-what-we-do-area ptb-50" style="background-color:#add8e685;">
+		<div class="container">
+			<div class="section-title">
+				<h2>Behavioral targeting</h2>
+				<p> Understand the online behavior of your leads and use that information to tailor messages to them. Create profiles for every visitor based on their browsing behavior so you can give them exactly what they want</p>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Website behavioral marketing</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec3a.png" alt="image">
+					</div>
+					<div style="text-align: justify;"> See how a visitor interacts with your website in terms of page visits and link clicks. Define goals for a visitor, group them based on their actions, and create a personalized experience.</div>
+					<!-- <a href="ser-dev.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-6">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">In-app usage-based targeting</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec3b.png" alt="image">
+					</div>
+					<div style="text-align: justify;">See how your users interact with your product and get an idea of features that interests them. Send tailor-made content to improve their experience.</div>
+					<!-- <a href="ser-tr.php" class="button">Find Out More</a> -->
+				</div>
+			</div>
+		</div>
 	</section>
 
 	<!-- Multi-channel marketing section-->
-	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
+	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">
 				<h2 style="color: white;">Multi-channel marketing</h2>
@@ -326,10 +422,61 @@
 				</div>
 			</div>
 		</div>
-	</section>
+    </section>
+     -->
+    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+		<div class="container">
+			<div class="section-title">
+				<h2>Multi-channel marketing</h2>
+				<p> Drive brand awareness by establishing a connection with your audience on platforms they use. Plan your marketing activities across mediums, allocate a budget, and realize your ROI.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Touchpoints</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec4a.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Identify your leads and customers' points of interaction with your brand. Know if your leads come from things like online ads, physical banners, email, or website, to help you decide where to invest more.</div>
+					<!-- <a href="ser-dev.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Email</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec4b.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Create and run email marketing campaigns to keep your leads nurtured and engaged.</div>
+					<!-- <a href="ser-tr.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">SMS</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec4c.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Send promotional or time-sensitive details to your leads and customers as text messages, after obtaining their consent.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+                </div>
+                <div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Social</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec4d.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Interact with your online audience by promoting your product offers on social media channels.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+				</div>
+			</div>
+		</div>
+    </section>
 
 	<!-- Engagement marketing section-->
-	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
+	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">
 				<h2 style="color: white;">Engagement marketing</h2>
@@ -394,10 +541,51 @@
 				</div>
 			</div>
 		</div>
+    </section> -->
+    
+    <section class="inner-it-what-we-do-area ptb-50" style="background-color: #add8e685;">
+		<div class="container">
+			<div class="section-title">
+				<h2>Engagement marketing</h2>
+				<p>Relevance is the key to good customer engagement, so build engagement programs that help you foster strong customer relationships.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Journey builder</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec5a.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Visualize and map your users' experience with your product or service. Create a personalized journey for every lead or customer to see how they progressed at each step</div>
+					<!-- <a href="ser-dev.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Auto responders</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec5b.png" alt="image">
+					</div>
+					<div style="text-align: justify;"> Send an automated welcome series to new leads or run promotional campaigns based on leads' interactions with your previous emails.</div>
+					<!-- <a href="ser-tr.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-4">
+					<div style="text-align:center;">
+						<div class="heading-sec">
+							<h2 class="heading-h2">Workflows</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec5c.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Create flows to get your leads into the right email series, then engage them with relevant content.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+				</div>
+			</div>
+		</div>
 	</section>
 
 	<!-- Analytics section-->
-	<section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
+	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
 		<div class="container">
 			<div class="section-title">
 				<h2 style="color: white;">Analytics</h2>
@@ -479,7 +667,58 @@
 				</div>
 			</div>
 		</div>
-	</section>
+    </section> -->
+    
+    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+		<div class="container">
+			<div class="section-title">
+				<h2>Analytics</h2>
+				<p> Get in-depth reports on your lead growth, campaign performance, and revenue generation.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec1">
+							<h2 class="heading-h2">Lead insights</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec6a.png" alt="image">
+					</div>
+					<div style="text-align: justify;">See how many leads you've gained over a period and evaluate the effectiveness of your lead generation activities.</div>
+					<!-- <a href="ser-dev.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec1">
+							<h2 class="heading-h2">Lead attribution reports</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec6b.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Get to know which sources you're getting leads from, so you can focus on targeted promotions.</div>
+					<!-- <a href="ser-tr.php" class="button">Find Out More</a> -->
+				</div>
+				<div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec1">
+							<h2 class="heading-h2">List-based reports</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec6c.png" alt="image">
+					</div>
+					<div style="text-align: justify;">Compare your mailing lists to see which list is active and which has the most engagement with your promotions.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+                </div>
+                <div class="col-md-3">
+					<div style="text-align:center;">
+						<div class="heading-sec1">
+							<h2 class="heading-h2">Campaign-based reports</h2>
+						</div>
+						<img class="blog-img" src="assets/img/products/sec6d.png" alt="image">
+					</div>
+					<div style="text-align: justify;">See which campaigns have the most opens and clicks, and what type of content works with your audience by comparing different campaigns.</div>
+					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
+				</div>
+			</div>
+		</div>
+    </section>
 
 	<?php include("includes/footer.php"); ?>
 

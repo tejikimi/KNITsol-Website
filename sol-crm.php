@@ -103,7 +103,7 @@
 			</div>
 		</div>
 	</div>
-	<section class="corporate-why-choose-us-area ptb-50">
+	<section class="corporate-why-choose-us-area pt-50 pb-30">
 		<div class="container">
 			<div class="section-title">
 				<h2> CRM </h2>
@@ -123,7 +123,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="corporate-why-choose-us-area ptb-50">
+	<section class="corporate-why-choose-us-area pt-30 pb-30">
 		<div class="container">
 			<div class="section-title">
 				<h2>Key Features</h2>

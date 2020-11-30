@@ -115,7 +115,6 @@
                     </li>
                     <li> Stonework ERP
                     </li>
-
                 </ul>
             </div>
         </div>
@@ -131,11 +130,11 @@
     </section>
 
     <!-- Overview -->
-    <section class="corporate-why-choose-us-area pt-25 pb-50" >
+    <section class="corporate-why-choose-us-area pt-25 pb-50">
         <div class="container">
-            <div class="section-title-text-left">
+            <!-- <div class="section-title-text-left">
                 <h2>Overview – About Product </h2>
-            </div>
+            </div> -->
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
@@ -145,10 +144,9 @@
             </div>
         </div>
     </section>
-
     <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left pb-30">
+            <div class="section-title-text-left ">
                 <h2>Modules </h2>
             </div>
             <div class="row align-items-center">

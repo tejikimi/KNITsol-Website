@@ -168,9 +168,9 @@
 
     <section class="inner-it-what-we-do-area pt-50 pb-50" style="background-color: #add8e685;">
         <div class="container">
-            <div class="section-title-text-left pb-40">
+            <!-- <div class="section-title-text-left pb-40">
                 <h2>Offerings</h2>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-md-4">
                     <div style="text-align:center;">

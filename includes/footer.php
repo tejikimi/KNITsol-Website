@@ -51,11 +51,10 @@
 							<i class='bx bx-chevron-right'></i>
 							<a href="about.php">About Us</a>
 						</li>
-		
                         <li>
 							<i class='bx bx-chevron-right'></i>
-							<a data-toggle="collapse" href="#collapseProductMenu" role="button" aria-expanded="false" aria-controls="collapseProductMenu">Services</a>
-							<div class="collapse" id="collapseProductMenu">
+							<a data-toggle="collapse" href="#collapseServiceMenu" role="button" aria-expanded="false" aria-controls="collapseServiceMenu">Services</a>
+							<div class="collapse" id="collapseServiceMenu">
 								<div>
 									<ul>
 										<a href="ser-dev.php">--IT Development & Testing </a>
@@ -65,7 +64,6 @@
 								</div>
 							</div>
 						</li>
-
 						<li>
 							<i class='bx bx-chevron-right'></i>
 							<a href="blog.php">Blogs</a>
@@ -112,7 +110,6 @@
 					</ul>
 				</div>
 			</div>
-
 			<div class="col-lg-3 col-md-6">
 				<div class="single-widget">
 					<h3>Contact</h3>
@@ -124,8 +121,6 @@
 							<i class='bx bxs-envelope' style="top:53px;"></i>
 							<a href="mailto: info@greatlogics.com"> info@knitsol.com</a>
 						</li>
-
-
 						<li>
 							<p class="mb-0" style="color:orange;"> UK </p>
 							<i class='bx bxs-phone-call' style="top:28px;"></i>
@@ -133,8 +128,6 @@
 							<i class='bx bxs-envelope' style="top:53px;"></i>
 							<a href="mailto: info@greatlogics.com"> info.uk@knitsol.com</a>
 						</li>
-
-
 						<li>
 							<p class="mb-0" style="color:lightgreen;"> US</p>
 							<i class='bx bxs-phone-call' style="top:28px;"></i>
