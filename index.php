@@ -108,6 +108,7 @@
 		}
         .part1{
 			background-image: url(b5.jpg);
+			background-size: cover;
 			padding-top: 40px;
 		}
 	</style>
@@ -274,7 +275,7 @@
 		</div>
 	</section>
 
-	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-image:url(b5.jpg)" ;>
+	<section class="inner-it-what-we-do-area pt-50 pb-70" style="background-image:url(b5.jpg);background-size: cover;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Why Krishnaag IT Solutions</h2>

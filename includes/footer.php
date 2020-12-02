@@ -7,7 +7,7 @@
 	}
 	</style>
 
-<section class="inner-footer-top-area pt-30 pb-30" style="background-image: url(b5.jpg);">
+<section class="inner-footer-top-area pt-30 pb-30" style="background-image: url(b5.jpg);background-size: cover;">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 col-md-6">
