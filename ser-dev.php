@@ -36,36 +36,7 @@
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
     <title>Krishnaag IT Solutions | IT Development & Testing</title>
-    <script>
-        var w = window;
-        var p = w.location.protocol;
-        if (p.indexOf("http") < 0) {
-            p = "http" + ":";
-        }
-        var d = document;
-        var f = d.getElementsByTagName('script')[0],
-            s = d.createElement('script');
-        s.type = 'text/javascript';
-        s.async = false;
-        if (s.readyState) {
-            s.onreadystatechange = function() {
-                if (s.readyState == "loaded" || s.readyState == "complete") {
-                    s.onreadystatechange = null;
-                    try {
-                        loadwaprops('2573bc7da3e92eab5c2de2935621879ae', '29b4dc78a4518458829d179a3f27c66c4', '231767431606c2029b275818bc1c4041e1185630859ca1fd0', '27c3da7b0eadd7549e5d52eb2be66bf17', 0.0);
-                    } catch (e) {}
-                }
-            };
-        } else {
-            s.onload = function() {
-                try {
-                    loadwaprops('2573bc7da3e92eab5c2de2935621879ae', '29b4dc78a4518458829d179a3f27c66c4', '231767431606c2029b275818bc1c4041e1185630859ca1fd0', '27c3da7b0eadd7549e5d52eb2be66bf17', 0.0);
-                } catch (e) {}
-            };
-        };
-        s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
-        f.parentNode.insertBefore(s, f);
-    </script>
+   
     <style>
         .blog-img {
             width: 300px;
