@@ -67,20 +67,20 @@
         f.parentNode.insertBefore(s, f);
     </script>
     <style>
-         .h1,
-		.h2,
-		.h3,
-		.h4,
-		.h5,
-		.h6,
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			color: #1089d4;
-		}
+        .h1,
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #1089d4;
+        }
     </style>
 </head>
 
@@ -208,7 +208,7 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" >
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left pb-30">
                 <h2>USP for Stonework ERP </h2>

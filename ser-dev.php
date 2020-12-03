@@ -71,20 +71,21 @@
             width: 300px;
             height: 200px;
         }
+
         .h1,
-		.h2,
-		.h3,
-		.h4,
-		.h5,
-		.h6,
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			color: #1089d4;
-		}
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #1089d4;
+        }
     </style>
 </head>
 

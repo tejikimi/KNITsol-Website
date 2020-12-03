@@ -29,8 +29,8 @@
 	<!-- Common Responsive CSS -->
 	<link rel="stylesheet" href="assets/css/common-responsive.css">
 
-    <!-- Corporate Style CSS -->
-    <link rel="stylesheet" href="assets/css/corporate-style.css">
+	<!-- Corporate Style CSS -->
+	<link rel="stylesheet" href="assets/css/corporate-style.css">
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
 	<!-- TITLE -->

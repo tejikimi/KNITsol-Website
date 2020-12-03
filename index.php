@@ -106,7 +106,8 @@
 			width: 300px;
 			height: 200px;
 		}
-        .part1{
+
+		.part1 {
 			background-image: url(b5.jpg);
 			background-size: cover;
 			padding-top: 40px;

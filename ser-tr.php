@@ -68,20 +68,20 @@
     </script>
     <style>
         .h1,
-		.h2,
-		.h3,
-		.h4,
-		.h5,
-		.h6,
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			color: #1089d4;
-		}
-        </style>
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #1089d4;
+        }
+    </style>
 </head>
 
 <body>
@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50" >
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left pb-40">
                 <h2>Digital Marketing Services</h2>

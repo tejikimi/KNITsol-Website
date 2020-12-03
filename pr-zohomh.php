@@ -65,17 +65,19 @@
 		};
 		s.src = p + '//mh.zoho.in/hub/js/WebsiteAutomation.js';
 		f.parentNode.insertBefore(s, f);
-    </script>
-    <style>
-        .heading-sec1 {
+	</script>
+	<style>
+		.heading-sec1 {
 			height: 130px;
 			line-height: 100px;
 		}
-        .blog-img {
+
+		.blog-img {
 			width: 300px;
 			height: 200px;
 		}
-        .h1,
+
+		.h1,
 		.h2,
 		.h3,
 		.h4,
@@ -89,7 +91,7 @@
 		h6 {
 			color: #1089d4;
 		}
-        </style>
+	</style>
 	<!-- New design styles -->
 
 </head>
@@ -215,8 +217,8 @@
 			</div>
 		</div>
     </section>-->
-    
-    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+
+	<section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Lead management</h2>
@@ -307,8 +309,8 @@
 			</div>
 		</div>
     </section> -->
-    
-    <section class="inner-it-what-we-do-area ptb-50" style="background-color:#add8e685;">
+
+	<section class="inner-it-what-we-do-area ptb-50" style="background-color:#add8e685;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Behavioral targeting</h2>
@@ -424,7 +426,7 @@
 		</div>
     </section>
      -->
-    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+	<section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Multi-channel marketing</h2>
@@ -460,8 +462,8 @@
 					</div>
 					<div style="text-align: justify;">Send promotional or time-sensitive details to your leads and customers as text messages, after obtaining their consent.</div>
 					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
-                </div>
-                <div class="col-md-3">
+				</div>
+				<div class="col-md-3">
 					<div style="text-align:center;">
 						<div class="heading-sec">
 							<h2 class="heading-h2">Social</h2>
@@ -473,7 +475,7 @@
 				</div>
 			</div>
 		</div>
-    </section>
+	</section>
 
 	<!-- Engagement marketing section-->
 	<!-- <section class="corporate-why-choose-us-area ptb-50" style="background-color: #1089d4;color: white;">
@@ -542,8 +544,8 @@
 			</div>
 		</div>
     </section> -->
-    
-    <section class="inner-it-what-we-do-area ptb-50" style="background-color: #add8e685;">
+
+	<section class="inner-it-what-we-do-area ptb-50" style="background-color: #add8e685;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Engagement marketing</h2>
@@ -668,8 +670,8 @@
 			</div>
 		</div>
     </section> -->
-    
-    <section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
+
+	<section class="inner-it-what-we-do-area ptb-50" style="background-color:white;">
 		<div class="container">
 			<div class="section-title">
 				<h2>Analytics</h2>
@@ -705,8 +707,8 @@
 					</div>
 					<div style="text-align: justify;">Compare your mailing lists to see which list is active and which has the most engagement with your promotions.</div>
 					<!-- <a href="ser-con.php" class="button">Find Out More</a> -->
-                </div>
-                <div class="col-md-3">
+				</div>
+				<div class="col-md-3">
 					<div style="text-align:center;">
 						<div class="heading-sec1">
 							<h2 class="heading-h2">Campaign-based reports</h2>
@@ -718,7 +720,7 @@
 				</div>
 			</div>
 		</div>
-    </section>
+	</section>
 
 	<?php include("includes/footer.php"); ?>
 

@@ -97,7 +97,7 @@
                     <li>Services
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> IT Development & Testing 
+                    <li> IT Development & Testing
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
                     <li>Testing
@@ -162,7 +162,7 @@
                             <li> <i class='bx bx-check-square'></i>Web Application Testing - KNIT's dedicated team of testing engineers have good experience and knowledge in web application testing technologies. We are proficient in different technologies has generated in delivering multiple projects at different parts of the globe. </li>
                             <li> <i class='bx bx-check-square'></i>Desktop Application Testing – We provide a wide range of testing services on desktop applications. With the support of our detailed desktop application testing expertise and QA testing experience we have gained substantial experience in this.</li>
                         </ul>
-                        <p class="text-justify">Mobile App Testing - Our mobile app testing services team has knowledge of handling complex apps which are intended to function across multiple devices with varying screen sizes, internal hardware, resolutions that can operate under various operating systems.</p> 
+                        <p class="text-justify">Mobile App Testing - Our mobile app testing services team has knowledge of handling complex apps which are intended to function across multiple devices with varying screen sizes, internal hardware, resolutions that can operate under various operating systems.</p>
                     </div>
                 </div>
             </div>

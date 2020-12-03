@@ -68,20 +68,20 @@
     </script>
     <style>
         .h1,
-		.h2,
-		.h3,
-		.h4,
-		.h5,
-		.h6,
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			color: #1089d4;
-		}
-        </style>
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #1089d4;
+        }
+    </style>
 </head>
 
 <body>
@@ -130,15 +130,15 @@
     </section>
 
     <!-- Overview -->
-   
-    <section class="corporate-why-choose-us-area pt-25 pb-50" >
+
+    <section class="corporate-why-choose-us-area pt-25 pb-50">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
                         <ul>
                             <li> <i class='bx bx-check-square'></i>No matter what your plans are, we have the right team, at the right moment for you. We can support you with top-notch talents, be it staff augmentation, team leasing or permanent employment contract requirements.</li>
-                            <li> <i class='bx bx-check-square'></i>Scale your IT personnel in the wink of the eye with KNIT's  staffing as a service offering. We offer three staffing options </li>
+                            <li> <i class='bx bx-check-square'></i>Scale your IT personnel in the wink of the eye with KNIT's staffing as a service offering. We offer three staffing options </li>
                         </ul>
                     </div>
                 </div>
@@ -154,8 +154,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">Extend your internal team with one or several skilled tech-professionals with KNIT's  IT Professionals. Our experienced employees are quick to understand and add extra value to your company on a per-project basis.</p>
-                        <p class="text-justify">KNIT  can offer you a diverse IT competency skill set for a predetermined amount of time, which is needed to carry out your project. With KNIT’s staff augmentation services, you can easily increase your workforce as per your needs and fulfill your out-of-house needs and requirements.</p>
+                        <p class="text-justify">Extend your internal team with one or several skilled tech-professionals with KNIT's IT Professionals. Our experienced employees are quick to understand and add extra value to your company on a per-project basis.</p>
+                        <p class="text-justify">KNIT can offer you a diverse IT competency skill set for a predetermined amount of time, which is needed to carry out your project. With KNIT’s staff augmentation services, you can easily increase your workforce as per your needs and fulfill your out-of-house needs and requirements.</p>
                         <p class="text-justify">Team leasing services, from KNIT, allow you to reduce costs on recruiting and infrastructure while gaining access to a wide pool of talented technology teams. Enlarge your in-house IT team and hire the best tech talent professionals.</p>
                         <p class="text-justify">Cut or extend your amplified team whenever you want. Fill in your technological and expertise gaps. Build a dedicated software development team tailored to meet your needs. Benefit from the highest levels of productivity and focus, all with KNIT IT Professionals.</p>
                     </div>

@@ -108,7 +108,7 @@
                 <div class="row related_page_links">
                     <div class="pb-20 pt-20 pl-2 pr-2">
                         <h3>Why Marketing Automation ?</h3>
-                        <div style="text-align:justify;">It all starts with a lack of collaboration between sales & marketing. When both the teams are scrambling to track qualified leads and make funnel building, all while relying on ad-hoc data input and follow-up requests  it’s inevitable that collaboration attempts degrade. They key responsibility is with ...</div>
+                        <div style="text-align:justify;">It all starts with a lack of collaboration between sales & marketing. When both the teams are scrambling to track qualified leads and make funnel building, all while relying on ad-hoc data input and follow-up requests it’s inevitable that collaboration attempts degrade. They key responsibility is with ...</div>
                         <div class="blog-date"><em>Tuesday November 10, 2020, <br>by, Poornima</em></div>
                         <div class="button"><a href="blogcontent.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
                     </div>
