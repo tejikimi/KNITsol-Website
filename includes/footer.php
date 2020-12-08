@@ -139,8 +139,8 @@
 				</div>
 			</div>
 			<div class="col-lg-2 col-md-6">
-				<div class="single-widget pt-30">
-					<img src="assets/img/sales-logo.jpg">
+				<div class="single-widget pt-100">
+					<img src="assets/img/Logo_Zoho.png">
 				</div>
 			</div>
 		</div>
