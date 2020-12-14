@@ -82,9 +82,8 @@
 				<div class="col-lg-6">
 					<div class="business-solutions-text">
 						<h2><span>About </span> Us </h2>
-						<p> Both employees and clients have stood in solidarity with Krishnaag’s IT Products and Services for the past 20 years due to its commendable commitment and deliverables. The company started at a time when traditional methodology practices were mainstream, and has transitioned to Agile Methodologies to keep up with the trends. Krishnaag IT Solutions survived the 2001 and 2008 recessions and is now scaling towards advanced technologies and has extended its operations to the UK and Singapore with an aim to serve its potential clients in various domains in the year 2020. Currently, Krishnaag IT Solutions (USA) engages its services through its own ERP and CRM based products across the US without leaving its initial footprints on statistical applications. The company also plans to customize the application to suit global commercial, terminology and taxation systems.
+						<p style="text-align: justify;"> Both employees and clients have stood in solidarity with Krishnaag’s IT Products and Services for the past 20 years due to its commendable commitment and deliverables. The company started at a time when traditional methodology practices were mainstream, and has transitioned to Agile Methodologies to keep up with the trends. Krishnaag IT Solutions survived the 2001 and 2008 recessions and is now scaling towards advanced technologies and has extended its operations to the UK and Singapore with an aim to serve its potential clients in various domains in the year 2020. Currently, Krishnaag IT Solutions (USA) engages its services through its own ERP and CRM based products across the US without leaving its initial footprints on statistical applications. The company also plans to customize the application to suit global commercial, terminology and taxation systems.
 						</p>
-
 
 					</div>
 				</div>
@@ -203,14 +202,14 @@
 				if (s.readyState == "loaded" || s.readyState == "complete") {
 					s.onreadystatechange = null;
 					try {
-						loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+						loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
 					} catch (e) {}
 				}
 			};
 		} else {
 			s.onload = function() {
 				try {
-					loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+					loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
 				} catch (e) {}
 			};
 		};

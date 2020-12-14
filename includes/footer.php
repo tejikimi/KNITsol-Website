@@ -59,7 +59,7 @@
 									<ul>
 										<a href="ser-dev.php">--IT Development & Testing </a>
 										<a href="ser-tr.php">--Training & Skills </a>								
-										<a href="ser-con.php">--Consultancy</a>
+										<a href="ser-con.php">--Content writing</a>
 									</ul>
 								</div>
 							</div>

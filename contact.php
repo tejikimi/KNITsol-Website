@@ -257,14 +257,14 @@
 				if (s.readyState == "loaded" || s.readyState == "complete") {
 					s.onreadystatechange = null;
 					try {
-						loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+						loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
 					} catch (e) {}
 				}
 			};
 		} else {
 			s.onload = function() {
 				try {
-					loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+					loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
 				} catch (e) {}
 			};
 		};

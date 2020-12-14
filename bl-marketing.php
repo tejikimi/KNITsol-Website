@@ -35,14 +35,9 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
-    <title>Krishnaag IT Solutions | IT Development & Testing</title>
+    <title>Krishnaag IT Solutions | Blog content</title>
    
     <style>
-        .blog-img {
-            width: 300px;
-            height: 200px;
-        }
-
         .h1,
         .h2,
         .h3,
@@ -78,7 +73,7 @@
     <div class="page-title-area item-bg-1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Services</h2>
+                <h2>Blogs</h2>
                 <ul>
                     <li>
                         <a href="index.php">
@@ -86,93 +81,70 @@
                             <i class='bx bx-chevrons-right bx-fade-right'></i>
                         </a>
                     </li>
-                    <li>Services
+                    <li>Blogs
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> IT Development & Testing
+                    <li> Why Marketing Automation ?
                     </li>
-
                 </ul>
             </div>
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area pt-50 pb-25">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title">
-                <h2>IT Development & Testing</h2>
-            </div>
-        </div>
-        </div>
-    </section>
-
-    <!-- Overview -->
-    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <p class="text-justify">Our Data and Analytics services enable clients to drive agility in their business operations, attain competitive advantages, and offer proactive response to emerging opportunities. We help you leverage enterprise and external data sources to drive better outcomes by implementing advanced analytics techniques and technologies. Our integrated approach to data management capabilities spanning Master Data Management to Data Quality and Data Governance helps us create an enterprise view of data for informed decision making.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- <section class="corporate-why-choose-us-area ptb-50">
-        <div class="container">
-            <div class="section-title-text-left">
-                <h2>Offerings</h2>
+                <h2> What are the problems if companies don't use automation tools for marketing?</h2>
             </div>
             <div class="row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
+                        <p>It all starts with a lack of collaboration between sales & marketing. When both the teams are scrambling to track qualified leads and make funnel building, all while relying on ad-hoc data input and follow-up requests it’s inevitable that collaboration attempts degrade. They key responsibility is with every person , rather than one team working together to achieve a common goal. Any business doesn’t need to invest in a corporate retreat to cultivate teamwork, It just needs to invest in the right marketing automation software. Here is how marketing automation solves few of the biggest sales and marketing pain points B2B companies face each day:</p>
                         <ul>
-                            <li> <i class='bx bx-check-square'></i>ERP</li>
-                            <li> <i class='bx bx-check-square'></i>CRM</li>
-                            <li> <i class='bx bx-check-square'></i> Testing</li>
+                            <li> <i class='bx bx-check-square'></i>Follow-up is either too much or too little: Segregation of the customer database helps in re-arranging them according to the priorities and setting up a concrete plan of action which helps in generating thorough lead which turns to revenue.</li>
+                            <li> <i class='bx bx-check-square'></i>No plan for re-engaging cold leads : This step involves digging the cold leads and touch base them with current and upgraded version to meet their requirements </li>
+                            <li> <i class='bx bx-check-square'></i>Prospect Monitoring/Lead Tracking: This is the key player in automation process where most of the businesses lack in tracking their prospective customers and understanding their needs. </li>
+                            <li> <i class='bx bx-check-square'></i>Automated Marketing Needs Assessments for Client Prospecting: Getting Started to generate meaningful first contact with prospects. Spark conversations with prospective clients with automated marketing needs assessments.</li>
+                            <li> <i class='bx bx-check-square'></i> Marketing Automation: Automating marketing outreach is an essential component to building relationships and saving time.</li>
+                            <li> <i class='bx bx-check-square'></i>Pipeline Management :Get rid of manual data entry and strengthen communication in your organization by assembling your sales pipeline to be track and manage opportunities within one automated dashboard. </li>
+                            <li> <i class='bx bx-check-square'></i>Prospect Monitoring/Lead Tracking: Automatically follow your prospective clients' every move and track their engagement with your business in order to appropriately time sales pitches and outreach.
+                            </li>
+                            <li> <i class='bx bx-check-square'></i>Order Management: Fulfilment teams need a channel to automatically manage/approve sales orders seamlessly without tracking salespeople down for order statuses </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
-    <section class="inner-it-what-we-do-area pt-50 pb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
-            <!-- <div class="section-title-text-left pb-40">
-                <h2>Offerings</h2>
-            </div> -->
-            <div class="row">
-                <div class="col-md-4">
-                    <div style="text-align:center;">
-                        <div class="heading-sec">
-                            <h2 class="heading-h2">ERP</h2>
-                        </div>
-                        <img class="blog-img" src="assets/img/dev-test/erp-dev.jpg" alt="image">
+            <div class="section-title">
+                <h2>What are the advantages of using automation software?</h2>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="choose-text">
+                        <p>Marketing automation empowers organizations with the ability to predict the ROI more accurately of proposed marketing engagement campaigns. The question, “Does this marketing initiative have the potential to succeed?” can be answered ten times over by companies who have access to the right customer data. It’s become vital to have these insights, “The best engagement plans contain proven strategies. As you all know how important are the customers and their experience to the business. This Automation software not only improves the collaborative efforts of Sales & Marketing but also increases the customer relationship by having purposeful engagement with them.</p>
+                        <p> Here are few advantages of getting automation software into your business </p>
+                        <ul>
+                            <li> <i class='bx bx-check-square'></i>Improving customer experience </li>
+                            <li> <i class='bx bx-check-square'></i>Increasing scale and scope of campaigns </li>
+                            <li> <i class='bx bx-check-square'></i> Boosting ROI on staff costs </li>
+                            <li> <i class='bx bx-check-square'></i>Empowering your team to improve results </li>
+                            <li> <i class='bx bx-check-square'></i>Increasing average order value</li>
+                            <li> <i class='bx bx-check-square'></i>Recovering lost revenue</li>
+                            <li> <i class='bx bx-check-square'></i>Increasing customer lifetime value</li>
+                            <li> <i class='bx bx-check-square'></i>Testing your way to increased revenue </li>
+                            <li> <i class='bx bx-check-square'></i>Predicting and shaping behaviour</li>
+                            <li> <i class='bx bx-check-square'></i>Creating space for strategic thinking </li>
+                            <li> <i class='bx bx-check-square'></i> Time Savings</li>
+                            <li> <i class='bx bx-check-square'></i>More Effective Spend</li>
+                            <li> <i class='bx bx-check-square'></i>Scalability</li>
+                            <li> <i class='bx bx-check-square'></i>Strengthened Sales and Marketing Partnership </li>
+                            <li> <i class='bx bx-check-square'></i>Concrete Measures of Success</li>
+                        </ul>
                     </div>
-                    <div style="text-align: justify;"> Stonework ERP is built to address all the unique challenges of the Granite Industry and its business processes. It helps in improving overall productivity by reducing the risk-taking factors within the company. It has been designed and developed on Salesforce Platform which is niche and one of the Industry players in customer relationship management.</div>
-                    <a href="sol-erp.php" class="button">Find Out More</a>
-                </div>
-                <div class="col-md-4">
-                    <div style="text-align:center;">
-                        <div class="heading-sec">
-                            <h2 class="heading-h2">CRM</h2>
-                        </div>
-                        <img class="blog-img" src="assets/img/dev-test/crm-dev.jpg" alt="image">
-                    </div>
-                    <div style="text-align: justify;"> Our CRM consulting services will help you improve lead conversions, unify customer data, and boost sales rates.KNIT works with both B2B and B2C companies for over 10 years. Our sales intelligence pros help improve conversion and retention rate, which leads to substantial revenue increase.</div>
-                    <a href="sol-crm.php" class="button">Find Out More</a>
-                </div>
-                <div class="col-md-4">
-                    <div style="text-align:center;">
-                        <div class="heading-sec">
-                            <h2 class="heading-h2">Testing</h2>
-                        </div>
-                        <img class="blog-img" src="assets/img/dev-test/testing-dev.png" alt="image">
-                    </div>
-                    <div style="text-align: justify;">KNIT's Testing team has a combination of highly skilled software engineers with proven expertise in testing tools and implementing methodologies for a wide range of solutions. Be it new application, product testing, support or integration, we have the knowledge and expertise to excel in any scenario.</div>
-                    <a href="ser-testing.php" class="button">Find Out More</a>
                 </div>
             </div>
         </div>

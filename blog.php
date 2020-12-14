@@ -80,34 +80,124 @@
                     <div class="pb-20 pt-20 pl-2 pr-2">
                         <h3>Why Marketing Automation ?</h3>
                         <div style="text-align:justify;">It all starts with a lack of collaboration between sales & marketing. When both the teams are scrambling to track qualified leads and make funnel building, all while relying on ad-hoc data input and follow-up requests it’s inevitable that collaboration attempts degrade. They key responsibility is with ...</div>
-                        <div class="blog-date"><em>Tuesday November 10, 2020, <br>by, Poornima</em></div>
-                        <div class="button"><a href="blogcontent.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
-                    </div>
-                </div>
-            </div>
-            <!-- <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
-                <div style="text-align:center;">
-                    <img width="300" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
-                </div>
-                <div class="row related_page_links">
-                    <div class="pb-20 pt-20 pl-2 pr-2">
-                        <h3>Removing Fields from CRM</h3>
-                        <div style="text-align:justify;">Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                        <div class="blog-date"><em>Wednesday December 9, 2020, <br>by, Poornima</em></div>
+                        <div class="button"><a href="bl-marketing.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
                     </div>
                 </div>
             </div>
             <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
                 <div style="text-align:center;">
-                    <img width="300" height="380" src="https://www.consultingsuccess.com/wp-content/uploads/2020/11/triple-your-consulting-sales.jpg">
+                    <img width="300" height="380" src="assets/img/blogs/sfadmin.jpg">
                 </div>
                 <div class="row related_page_links">
                     <div class="pb-20 pt-20 pl-2 pr-2">
-                        <h3>Removing Fields from CRM</h3>
-                        <div style="text-align:justify;">Removing Fields from CRM Zoho is making a significant change to the way that Zoho CRM and Zoho Analytics talk to each other. This change means that in the future, we will all need to be more careful when removing fields from the CRM. To explain the change Zoho is making, and how it will...</div>
-                        <div class="blog-date"><em>Thursday October 29, 2020, <br>by, Jake Harris</em></div>
-                        <div class="button"><a href="https://goldstarit.com/removing-fields-from-crm/" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                        <h3>What is Admin Center ?</h3>
+                        <div style="text-align:justify;">Admin Center is our vision for a better admin experience that makes admins more productive. Log in to this one central command center to monitor and take quick action on key admin responsibilities. ...</div>
+                        <div class="blog-date"><em>Tuesday December 1, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="bl-sfadmin.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/sfdev.jpeg">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Multipart/form-Data in Salesforce Integration </h3>
+                        <div style="text-align:justify;">All come from a CloudSpokes challenge (here is the connection)… at the hour of beginning the test I was certain beyond a shadow of a doubt I would have wound up the test in under a day: ...</div>
+                        <div class="blog-date"><em>Wednesday November 25, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="bl-sfdev.php" class="large-6 medium-6 small-12 columns end">Read more</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container pb-20 pt-20">
+        <div class="row">
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/aura.png">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Introduction to Aura</h3>
+                        <div style="text-align:justify;">Aura is a UI framework for developing dynamic web apps for mobile and desktop devices, while providing a scalable long-lived lifecycle to support building apps engineered for growth. It supports partitioned multi-tier component development that bridges the client and server. ...</div>
+                        <div class="blog-date"><em>Friday November 20, 2020, <br>by, Poornima</em></div>
+                        <div class="button"><a href="bl-aura.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/Lightning.png">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Why Lightning Web Components ?</h3>
+                        <div style="text-align:justify;">LWC is a new programming model levering the recent web standards. Rather than being a totally custom and development wise rigid framework, It’s quite flexible. It’s mostly the common Web Standards and a Thin Layer of Specialized services to make it a perfect fit for Modern Rich UI Implementations in Salesforce....</div>
+                        <div class="blog-date"><em>Friday November 13, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="bl-lightning.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/salescloud.jpg">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Drive Sales Growth With Resources  </h3>
+                        <div style="text-align:justify;">Those are among a handful of common refrains I hear from sales leaders these days — many of whom are on the hook for driving revenue growth during one of the biggest economic declines in our country’s history.  ...</div>
+                        <div class="blog-date"><em>Friday November 6, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="bl-sales.php" class="large-6 medium-6 small-12 columns end">Read more</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pb-20 pt-20">
+        <div class="row">
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/python.jpg">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Reporting Exceptions in Python </h3>
+                        <div style="text-align:justify;">Python scripts are the glue that keep many applications and their infrastructure running, but when one of your scripts throws an exception you may not know about it immediately unless you have a central . ...</div>
+                        <div class="blog-date"><em>Friday October 30, 2020, <br>by, Poornima</em></div>
+                        <div class="button"><a href="bl-python.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/Lightning.png">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Why Lightning Web Components ?</h3>
+                        <div style="text-align:justify;">LWC is a new programming model levering the recent web standards. Rather than being a totally custom and development wise rigid framework, It’s quite flexible. It’s mostly the common Web Standards and a Thin Layer of Specialized services to make it a perfect fit for Modern Rich UI Implementations in Salesforce....</div>
+                        <div class="blog-date"><em>Friday November 13, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="lightning.php" class="large-6 medium-6 small-12 columns end">Read more</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4" style="border: 1px solid black;padding-top: 10px;">
+                <div style="text-align:center;">
+                    <img width="300" height="380" src="assets/img/blogs/sfdev.jpeg">
+                </div>
+                <div class="row related_page_links">
+                    <div class="pb-20 pt-20 pl-2 pr-2">
+                        <h3>Multipart/form-Data in Salesforce Integration </h3>
+                        <div style="text-align:justify;">All come from a CloudSpokes challenge (here is the connection)… at the hour of beginning the test I was certain beyond a shadow of a doubt I would have wound up the test in under a day: ...</div>
+                        <div class="blog-date"><em>Wednesday November 25, 2020, <br>by, Nasik</em></div>
+                        <div class="button"><a href="sfdev.php" class="large-6 medium-6 small-12 columns end">Read more</a>
+                    </div>
                     </div>
                 </div>
             </div> -->
@@ -169,14 +259,14 @@
                 if (s.readyState == "loaded" || s.readyState == "complete") {
                     s.onreadystatechange = null;
                     try {
-                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                     } catch (e) {}
                 }
             };
         } else {
             s.onload = function() {
                 try {
-                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2c79c2c690458773fe5c809b84b62707b72f384f8d12b7f6c", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                 } catch (e) {}
             };
         };

@@ -35,7 +35,7 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
-    <title>Krishnaag IT Solutions | Training & Skills</title>
+    <title>Krishnaag IT Solutions | Blog content</title>
    
     <style>
         .h1,
@@ -73,7 +73,7 @@
     <div class="page-title-area item-bg-1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Services</h2>
+                <h2>Blogs</h2>
                 <ul>
                     <li>
                         <a href="index.php">
@@ -81,59 +81,40 @@
                             <i class='bx bx-chevrons-right bx-fade-right'></i>
                         </a>
                     </li>
-                    <li>Services
+                    <li>Blogs
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> Training & Skills
+                    <li> Salesforce Admin
                     </li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area pt-50 pb-25">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title">
-                <h2>Training & Skills</h2>
+                <h2> Introducing Admin Center: A New Home for Salesforce Administrators</h2>
             </div>
-        </div>
-        </div>
-    </section>
-
-    <!-- Overview -->
-    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
-        <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
-                        <p class="text-justify">Be it a small plant or a big tree, they both need constant care, to let them grow and flourish. In the same way, an application needs to be constantly monitored and supported. In absence of appropriate maintenance strategy, over time, an application can end up losing significance to business. </p>
-                        <p class="text-justify">Your business keeps on evolving, so should your business applications. At KNIT we provide best in class training support to the consultants to evolve their technical skills set which increases the competency and revenue of the businesses</p>
+                        <p>We know #AwesomeAdmins spend their days helping their users become more efficient and more effective. You are the people who bring innovation to life. You are always innovating for your users, but what about innovating the way that YOU, as an admin, work? Wouldn’t it be great to see all of your key workspaces in one place so you can be even more productive?</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <section class="corporate-why-choose-us-area pt-50 pb-50" style="background-color: #add8e685;">
+    <section class="corporate-why-choose-us-area ptb-30">
         <div class="container">
-            <div class="section-title-text-left pb-40">
-                <h2>Salesforce trainings we offer</h2>
+            <div class="section-title-text-left">
+                <h2> What is Admin Center?</h2>
             </div>
             <div class="row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Admin </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Develeopment </li>
-                            <li> <i class='bx bx-check-square'></i> Aura component development </li>
-                            <li> <i class='bx bx-check-square'></i> Lightning web component developent </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Marketing cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce sales cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Python </li>
-                            <li> <i class='bx bx-check-square'></i> BA</li>
-                        </ul>
-                        <p style="font-style: italic;font-weight: bold;"> We also offer these trainings with mini project and live project support along with certifications.
-                        </p>
+                        <p style="text-align: justify;">Admin Center is our vision for a better admin experience that makes admins more productive. Log in to this one central command center to monitor and take quick action on key admin responsibilities.</p>
+                        <p style="text-align: justify;"> You’ll have access to guided setup flows, learning, and improved org management tools — PLUS, you’ll have the flexibility to customize your admin page in a way that works for you. You’ll be able to start your day from one place, where you can see critical information you need to manage your Salesforce org.</p>
                     </div>
                 </div>
             </div>
@@ -142,15 +123,14 @@
 
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
-            <div class="section-title-text-left pb-40">
-                <h2>Digital Marketing Services</h2>
+            <div class="section-title-text-left">
+                <h2>What’s the background on this feature?</h2>
             </div>
             <div class="row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i>Power your business's online presence with our customized digital marketing plans and guaranteed 200% increase in traffic.</li>
-                        </ul>
+                        <p style="text-align: justify;">Admins work hard to deliver value for their businesses by making their users productive, so we wanted to build something that makes our #AwesomeAdmins more productive. We heard your feedback from True to the Core to make your experience better, and we’ve spent time with you to understand what that means to you. From novice admins, we found that you often ask, “How do I…?” and “Where do I start?”, and really want better guidance in the form of guided setup, best practices, in-context learning and help, and an easy place to ask questions and get support. On the other hand, our seasoned admins want the ability to see as much information from one place as possible, take action quickly, and deeply customize the experiences for themselves (and their teams when applicable).</p>
+                        <p style="text-align: justify;"> With your feedback in mind, we began a cross-team collaboration effort to design a new and cohesive experience that brings together the power of Salesforce to help you set up and manage your orgs.</p>
                     </div>
                 </div>
             </div>
@@ -213,14 +193,14 @@
                 if (s.readyState == "loaded" || s.readyState == "complete") {
                     s.onreadystatechange = null;
                     try {
-                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                     } catch (e) {}
                 }
             };
         } else {
             s.onload = function() {
                 try {
-                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                 } catch (e) {}
             };
         };

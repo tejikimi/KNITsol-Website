@@ -35,8 +35,8 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
-    <title>Krishnaag IT Solutions | Training & Skills</title>
-   
+    <title>Krishnaag IT Solutions | Blog content</title>
+
     <style>
         .h1,
         .h2,
@@ -73,7 +73,7 @@
     <div class="page-title-area item-bg-1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Services</h2>
+                <h2>Blogs</h2>
                 <ul>
                     <li>
                         <a href="index.php">
@@ -81,59 +81,27 @@
                             <i class='bx bx-chevrons-right bx-fade-right'></i>
                         </a>
                     </li>
-                    <li>Services
+                    <li>Blogs
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> Training & Skills
+                    <li> Aura
                     </li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <section class="corporate-why-choose-us-area pt-50 pb-25">
+    <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title">
-                <h2>Training & Skills</h2>
-            </div>
-        </div>
-        </div>
-    </section>
-
-    <!-- Overview -->
-    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="choose-text">
-                        <p class="text-justify">Be it a small plant or a big tree, they both need constant care, to let them grow and flourish. In the same way, an application needs to be constantly monitored and supported. In absence of appropriate maintenance strategy, over time, an application can end up losing significance to business. </p>
-                        <p class="text-justify">Your business keeps on evolving, so should your business applications. At KNIT we provide best in class training support to the consultants to evolve their technical skills set which increases the competency and revenue of the businesses</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="corporate-why-choose-us-area pt-50 pb-50" style="background-color: #add8e685;">
-        <div class="container">
-            <div class="section-title-text-left pb-40">
-                <h2>Salesforce trainings we offer</h2>
+                <h2> Introduction to Aura</h2>
             </div>
             <div class="row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Admin </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Develeopment </li>
-                            <li> <i class='bx bx-check-square'></i> Aura component development </li>
-                            <li> <i class='bx bx-check-square'></i> Lightning web component developent </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Marketing cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce sales cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Python </li>
-                            <li> <i class='bx bx-check-square'></i> BA</li>
-                        </ul>
-                        <p style="font-style: italic;font-weight: bold;"> We also offer these trainings with mini project and live project support along with certifications.
-                        </p>
+                        <p>Since Dreamforce ’13 and the launch of Salesforce1, you may have heard “Aura” getting thrown around.</p>
+                        <p style="text-align: justify;">Aura is a UI framework for developing dynamic web apps for mobile and desktop devices, while providing a scalable long-lived lifecycle to support building apps engineered for growth. It supports partitioned multi-tier component development that bridges the client and server.</p>
+                        <p style="text-align: justify;"> So, how is Salesforce1 and Aura related? Well, Salesforce1 is built on Aura. The Salesforce team has actually developed Aura specifically for making the mobile experience better. Aura was actually originally built for Salesforce Touch. Since then, the Aura framework has grown immensely. Now, portions of Chatter, Sales Cloud Opportunity Splits”, Site.com Component Framework, and the Force.com App Builder are all using Aura. Note that this distinction is important. It is being used on both Mobile and Desktop.</p>
                     </div>
                 </div>
             </div>
@@ -142,15 +110,28 @@
 
     <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
-            <div class="section-title-text-left pb-40">
-                <h2>Digital Marketing Services</h2>
+            <div class="section-title-text-left">
+                <h2>Why use Aura?</h2>
             </div>
-            <div class="row align-items-center">
-                <div class="col-lg-12">
+            <div class="row align-items-start">
+                <div class="col-lg-8 offset-lg-2">
                     <div class="choose-text">
+                        <p style="text-align: justify;"> Aura comes with a rich and extensible component set to kick start building apps. You don’t have to spend your time optimizing your apps for different devices as the components take care of that for you.</p>
+                        <p style="text-align: justify;"> The framework intelligently utilizes your server, browser, devices, and network so you can focus on the logic and interactions of your apps.</p>
+                        <p> On top of that, Aura has a bunch of other benefits. Some other interesting things to note about Aura: </p>
                         <ul>
-                            <li> <i class='bx bx-check-square'></i>Power your business's online presence with our customized digital marketing plans and guaranteed 200% increase in traffic.</li>
+                            <li> <i class='bx bx-check-square'></i> It is open source </li>
+                            <li> <i class='bx bx-check-square'></i>Aura lives on GitHub and can be forked/modified at any time. You can even contribute bug fixes or functionality changes! </li>
+                            <li> <i class='bx bx-check-square'></i> Aura is not native to the Force.com platform </li>
+                            <li> <i class='bx bx-check-square'></i>Unlike languages like Apex and Visualforce, Aura does not require Salesforce. It was built for Salesforce, but it can be used by any developer. </li>
+                            <li> <i class='bx bx-check-square'></i>This will open Aura up to a much larger set of developers. In conjunction with it being open source, this framework will grow at a drastic rate</li>
+                            <li> <i class='bx bx-check-square'></i>Aura is built using object-oriented principles</li>
+                            <li> <i class='bx bx-check-square'></i>Aura provides the basic constructs of inheritance, polymorphism, and encapsulation from classic object-oriented programming and applies them to presentation layer development.</li>
+                            <li> <i class='bx bx-check-square'></i>Aura heavily utilizes events to interact with different components </li>
+                            <li> <i class='bx bx-check-square'></i>It is important to understand to the concept of event-driven programming</li>
+                            <li> <i class='bx bx-check-square'></i>If you have ever developed with JavaScript or Java Swing, you should be familiar with the idea of event-driven programming. You write handlers that respond to interface events as they occur. The events may or may not have been triggered by user interaction. </li>
                         </ul>
+                        <p style="text-align: justify;"> In my opinion, Aura is the way of the future. It is going to be a fast, heavily tested mobile-first option. With the ability to quickly transition between desktop and mobile, Aura provides an incredibly powerful framework to create applications for all mediums. Take some time to start learning Aura now and get a head start! </p>
                     </div>
                 </div>
             </div>
@@ -213,14 +194,14 @@
                 if (s.readyState == "loaded" || s.readyState == "complete") {
                     s.onreadystatechange = null;
                     try {
-                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                     } catch (e) {}
                 }
             };
         } else {
             s.onload = function() {
                 try {
-                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                 } catch (e) {}
             };
         };

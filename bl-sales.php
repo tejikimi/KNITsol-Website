@@ -35,8 +35,8 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <!-- TITLE -->
-    <title>Krishnaag IT Solutions | Training & Skills</title>
-   
+    <title>Krishnaag IT Solutions | Blog content</title>
+
     <style>
         .h1,
         .h2,
@@ -73,7 +73,7 @@
     <div class="page-title-area item-bg-1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Services</h2>
+                <h2>Blogs</h2>
                 <ul>
                     <li>
                         <a href="index.php">
@@ -81,10 +81,10 @@
                             <i class='bx bx-chevrons-right bx-fade-right'></i>
                         </a>
                     </li>
-                    <li>Services
+                    <li>Blogs
                         <i class='bx bx-chevrons-right bx-fade-right'></i>
                     </li>
-                    <li> Training & Skills
+                    <li> Why Lightning Web Components ?
                     </li>
                 </ul>
             </div>
@@ -94,20 +94,25 @@
     <section class="corporate-why-choose-us-area pt-50 pb-25">
         <div class="container">
             <div class="section-title">
-                <h2>Training & Skills</h2>
+                <h2>Drive Sales Growth With Resources You Already Have</h2>
             </div>
         </div>
         </div>
     </section>
 
     <!-- Overview -->
-    <section class="corporate-why-choose-us-area pt-25 pb-50" style="">
+    <section class="corporate-why-choose-us-area pt-25 pb-50">
         <div class="container">
+            <!-- <div class="section-title-text-left">
+                <h2>Why Lightning Web Components(LWC)?</h2>
+            </div> -->
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <p class="text-justify">Be it a small plant or a big tree, they both need constant care, to let them grow and flourish. In the same way, an application needs to be constantly monitored and supported. In absence of appropriate maintenance strategy, over time, an application can end up losing significance to business. </p>
-                        <p class="text-justify">Your business keeps on evolving, so should your business applications. At KNIT we provide best in class training support to the consultants to evolve their technical skills set which increases the competency and revenue of the businesses</p>
+                        <p class="text-justify"> Those are among a handful of common refrains I hear from sales leaders these days — many of whom are on the hook for driving revenue growth during one of the biggest economic declines in our country’s history. <p>
+                        <p class="text-justify">As a senior director of business value services at Salesforce, I work with our largest enterprise customers — including Johnson & Johnson, Medtronic, and Philips — to help them develop a return on investment for key sales initiatives. So, when nearly everyone I talk to (and the surveys show) concern over revenue decline, I know that this is the year of doing more with less. </p>
+                       <p class="text-justify">Sales leaders will need to zero in on where they and their teams can increase efficiency, manage risk, and most importantly drive revenue. They will need to ruthlessly prioritize, deploy effective tools for sellers, and train their sales reps on new skills required in the current selling environment.</p>
+                       <p class="text-justify">The following are a few strategies I’ve seen my customers use to meet the challenge:</p>
                     </div>
                 </div>
             </div>
@@ -117,45 +122,61 @@
     <section class="corporate-why-choose-us-area pt-50 pb-50" style="background-color: #add8e685;">
         <div class="container">
             <div class="section-title-text-left pb-40">
-                <h2>Salesforce trainings we offer</h2>
+                <h2>Focus on doing a few things well</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
-                        <ul>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Admin </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Develeopment </li>
-                            <li> <i class='bx bx-check-square'></i> Aura component development </li>
-                            <li> <i class='bx bx-check-square'></i> Lightning web component developent </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce Marketing cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Salesforce sales cloud </li>
-                            <li> <i class='bx bx-check-square'></i> Python </li>
-                            <li> <i class='bx bx-check-square'></i> BA</li>
-                        </ul>
-                        <p style="font-style: italic;font-weight: bold;"> We also offer these trainings with mini project and live project support along with certifications.
-                        </p>
+                        <p class="text-justify">Sales is all about telling the right person the right story at the right time. In a “do more with less” environment, sales teams must focus on the best markets, accounts, and decision makers to pursue. </p>
+                       <p class="text-justify"> This prioritization requires an intelligent, data-driven approach. One of my Fortune 500 customers was able to leverage predictive insights to determine which deals might get pushed into the next quarter. They then developed recovery plans to speed up deal closures and were able to capture millions of dollars in revenue in the current quarter. </p>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 
-    <section class="corporate-why-choose-us-area ptb-50">
+    <!-- <section class="corporate-why-choose-us-area ptb-50">
         <div class="container">
             <div class="section-title-text-left pb-40">
-                <h2>Digital Marketing Services</h2>
+                <h2>What Lightning Web Components(LWC)?</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="choose-text">
+                        <p style="text-align: justify;"> LWC is a new programming model levering the recent web standards. Rather than being a totally custom and development wise rigid framework, It’s quite flexible. It’s mostly the common Web Standards and a Thin Layer of Specialized services to make it a perfect fit for Modern Rich UI Implementations in Salesforce. This thin layer of specialized services contain Base Lightning Components, Lightning Data Service and User Interface API which work behind the curtain for LWC. </p>
+                        <p style="text-align: justify;"> A thin layer of specialized services on top of a standard web stack results in: </p>
                         <ul>
-                            <li> <i class='bx bx-check-square'></i>Power your business's online presence with our customized digital marketing plans and guaranteed 200% increase in traffic.</li>
+                            <li> <i class='bx bx-check-square'></i>Ease of development for large scale modular apps. </li>
+                            <li> <i class='bx bx-check-square'></i>Ease of Leveraging the latest web functionalities and constructs. </li>
+                            <li> <i class='bx bx-check-square'></i> A common model and transferable skills. </li>
+                            <li> <i class='bx bx-check-square'></i> Interoperable components. </li>
+                            <li> <i class='bx bx-check-square'></i>Better performance. </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <section class="corporate-why-choose-us-area ptb-50" style="background-color: #add8e685;">
+        <div class="container">
+            <div class="section-title-text-left pb-40">
+                <h2>Where to start from?</h2>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="choose-text">
+                        <p style="text-align: justify;"> Here are some recommended steps: </p>
+                        <ul>
+                            <li> <i class='bx bx-check-square'></i>Learn more about LWC from the LWC Video Gallery. </li>
+                            <li> <i class='bx bx-check-square'></i>Install VS Code and set it up for Salesforce Development.</li>
+                            <li> <i class='bx bx-check-square'></i> Get easy to understand sample code for almost all use cases here. </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
 
     <?php include("includes/footer.php"); ?>
 
@@ -213,14 +234,14 @@
                 if (s.readyState == "loaded" || s.readyState == "complete") {
                     s.onreadystatechange = null;
                     try {
-                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                        loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                     } catch (e) {}
                 }
             };
         } else {
             s.onload = function() {
                 try {
-                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692",  "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
+                    loadwaprops("27218d28c96aa859ebdab7f8fc3213c55", "2ff43d5e6658a1bf5d71b62c3142be692", "2bcd5176fc905b964d913bb10db670889c45137be9522690f", "0.0");
                 } catch (e) {}
             };
         };

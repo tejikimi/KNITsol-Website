@@ -180,7 +180,7 @@
    <div class="row">
         <div class="col-md-4"><img src="assets/img/knitsol-logo-new.png" class="img-fluid"></div>
         <div class="col-md-4"> </div>
-        <div class="col-md-4" style="width: 200px;height:100px;"><img src="assets/img/Logo_Zoho.png"> </div>
+        <div class="col-md-4"><img src="assets/img/Logo_Zoho.png"> </div>
 
     </div>
     <div class="row">
@@ -198,7 +198,7 @@
                     <ul class="sub-menu">
                         <li><a href="ser-dev.php">IT Development & Testing</a></li>
                         <li><a href="ser-tr.php">Training & Skills</a></li>
-                        <li><a href="ser-con.php">Consultancy</a></li>
+                        <li><a href="ser-con.php">Content writing</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Industries</a></li>
